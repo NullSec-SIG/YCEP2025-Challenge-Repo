@@ -1,0 +1,18 @@
+# CTF Repository Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# This is the file to specify to ctf-architect when creating a new challenge.
+
+version = "0.1"
+
+[config]
+categories = ["forensics", "crypto", "misc", "pwn", "osint", "web"]
+difficulties = ["easy", "medium", "hard", "insane"]
+flag_format = "YCEP25{.*}"
+name = "Hack n Flag 2025"
+
+[[config.extras]]
+name = "discord"
+description = "The discord tag of the challenge creator"
+prompt = "Enter your discord tag"
+required = true
+type = "string"
