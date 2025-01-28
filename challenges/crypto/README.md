@@ -13,7 +13,7 @@
 ## Challenges (1 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
-| [Shifted Secrets](<./Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Easy | Ravin |
+| [Shifted Secrets](<./Shifted Secrets>) | [Shifted Secrets](<./Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Easy | Ravin |
 
 ## Services (0 total)
 | Service | Challenge | Ports | Type |
