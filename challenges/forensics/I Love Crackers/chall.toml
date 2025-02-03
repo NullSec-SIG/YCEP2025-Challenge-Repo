@@ -1,0 +1,25 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ravin"
+category = "forensics"
+description = "Crackers Tea and Crumpets... This British guy sure likes some weird passwords\n"
+difficulty = "medium"
+name = "I Love Crackers"
+folder_name = "I Love Crackers"
+files = ["dist/ilovecrackers.xlsx"]
+
+[challenge.extras]
+discord = "p3rpl3x"
+
+[[challenge.flags]]
+flag = "YCEP25{DO_YOU_WANT_SOME_TEA}"
+case_insensitive = true
+
+[[challenge.hints]]
+cost = 100
+content = "Try searching for cracking of office files!\n"
