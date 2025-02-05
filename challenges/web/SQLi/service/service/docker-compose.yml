@@ -1,0 +1,22 @@
+version: "1"
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+    environment:
+      - FLASK_ENV=development
+    volumes:
+      - .:/app
+
+  db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: SuperSecretPassword123!@YCEP24
+      MYSQL_DATABASE: mydatabase
+    ports:
+      - "3306:3306"
