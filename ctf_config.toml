@@ -8,6 +8,7 @@ version = "0.1"
 categories = ["forensics", "crypto", "misc", "pwn", "osint", "web"]
 difficulties = ["easy", "medium", "hard", "insane"]
 flag_format = "YCEP25{.*}"
+starting_port = 30000
 name = "Hack n Flag 2025"
 
 [[config.extras]]
