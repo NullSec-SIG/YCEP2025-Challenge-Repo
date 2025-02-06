@@ -1,0 +1,27 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "YBN"
+category = "pwn"
+description = "Testing pwn deployment from YBN CTF. Ignore\u001a\u001a\n"
+difficulty = "easy"
+name = "Flag Shop"
+folder_name = "Flag Shop"
+files = ["dist\\flag_shop"]
+
+[challenge.extras]
+discord = "dakshthapar"
+
+[[challenge.flags]]
+flag = "YCEP25{flag}"
+case_insensitive = true
+
+[[challenge.services]]
+name = "flag-shop"
+path = "service\\flag-shop"
+ports = [10000]
+type = "tcp"
