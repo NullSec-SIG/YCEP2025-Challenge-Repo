@@ -1,22 +1,20 @@
-version: "1"
-
 services:
-  web:
-    build: .
+  sqli-web:
+    build: service
     ports:
       - "5000:5000"
     depends_on:
-      - db
+      - sqli-db
     environment:
       - FLASK_ENV=development
     volumes:
       - .:/app
 
-  db:
+  sqli-db:
     image: mysql:5.7
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: SuperSecretPassword123!@YCEP24
       MYSQL_DATABASE: mydatabase
     ports:
-      - "3306:3306"
+      - "3306"

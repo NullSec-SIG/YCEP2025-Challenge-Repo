@@ -6,7 +6,7 @@ version = "0.1"
 
 [challenge]
 author = "Daksh"
-category = "forensics"
+category = "web"
 description = "hello world test\n\n"
 difficulty = "easy"
 name = "SQLi"
@@ -18,10 +18,10 @@ discord = "dakshthapar"
 
 [[challenge.flags]]
 flag = "test"
-case_insensitive = true
+case_insensitive = false
 
 [[challenge.services]]
-name = "sqli"
+name = "sqli-web"
 path = "service\\service"
 ports = [5000]
 type = "web"
