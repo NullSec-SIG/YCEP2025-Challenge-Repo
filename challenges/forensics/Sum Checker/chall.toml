@@ -1,0 +1,25 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "forensics"
+description = "30 files, each locked behind a SHA-256 checksum, and the task is clear: figure out which one has the real flag. It's like being handed a stack of cryptic treasure maps and told, 'Good luck, no pressure!'\n"
+difficulty = "easy"
+name = "Sum Checker"
+folder_name = "Sum Checker"
+files = ["dist/check.zip"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{UNPR3D1CT4BL3_0UTPUT}"
+case_insensitive = true
+
+[[challenge.hints]]
+cost = 100
+content = "How can we find SHA256 Checksum of files?\n"
