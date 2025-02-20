@@ -1,0 +1,31 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use chall-architect instead.
+
+version = "0.1"
+
+[challenge]
+author = "Chin Ray"
+category = "pwn"
+description = "Sneaky, huh? Well, Jensen just patched that vulnerability you used to rip him off. He can't have people like you getting in his way when he's trying to overflow his bank account with cash from those sweet sweet GPUs."
+difficulty = "hard"
+name = "LionExchange 2"
+files = ["dist\\LionExchange2.cs"]
+requirements = ["Unlocked after LionExchange 1"]
+
+[challenge.extras]
+
+[[challenge.flags]]
+flag = "YCEP25{1nT3geR_Th1Rty_2_Ov3rFl0W}"
+
+[[challenge.hints]]
+cost = 150
+content = "Anything... special with the variable type used?"
+
+[[challenge.services]]
+name = "lionexchange2"
+path = "service\\lionexchange2"
+port = 2404
+type = "nc"
+
+[challenge.services.extras]

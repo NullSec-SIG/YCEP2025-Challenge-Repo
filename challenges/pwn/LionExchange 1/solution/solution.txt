@@ -1,0 +1,4 @@
+1. Select "2. Buy NVIDIA stocks"
+2. Enter a negative number that, when multiplied with 126, is greater or equal to 1000000. Or you can use smaller negative numbers and do it multiple times.
+3. Select "3. Pray to Jensen Huang for flag"
+4. Profit

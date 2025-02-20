@@ -1,0 +1,26 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use chall-architect instead.
+
+version = "0.1"
+
+[challenge]
+author = "Chin Ray"
+category = "pwn"
+description = "Reaping the rewards of NVIDIA's early gamble on AI and as investments pour in, CEO Jensen Huang consults his financial advisor Soin on how to make the most of it. Soin comes up with the idea of LionExchange, a stock trading app that allows users to buy NVDA stocks. Being a miser however, Jensen outsources development to a sketchy South African company. Not sure what it is, but I heard they once developed this app called Mobile Guardian.\n\nGiven the shadiness of its development, this app would have serious issues that'll definitely get them a ton of negative reviews. Can you find the vulnerability and be the one cashing in instead?"
+difficulty = "easy"
+name = "LionExchange 1"
+files = ["dist\\LionExchange 1.cs"]
+
+[challenge.extras]
+
+[[challenge.flags]]
+flag = "YCEP25{N3g4t1v3_T1M35_N3g4t1v3_3qU4L5_Po51t1v3}"
+
+[[challenge.services]]
+name = "lionexchange1"
+path = "service\\lionexchange1"
+port = 2403
+type = "nc"
+
+[challenge.services.extras]

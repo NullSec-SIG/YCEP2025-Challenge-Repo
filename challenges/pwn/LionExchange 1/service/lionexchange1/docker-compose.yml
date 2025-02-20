@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  lionexchange1:
+    image: lionexchange1
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "2403:2403"
+    networks:
+      - product-network
+
+networks:
+    product-network:
+        driver: bridge
