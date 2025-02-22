@@ -1,0 +1,30 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Damian"
+category = "web"
+description = "I made this site to secure my password. Basically a Time Capsule, It will only be available in the future....\n"
+difficulty = "easy"
+name = "Time Capsule"
+folder_name = "TimeCapsule"
+
+[challenge.extras]
+discord = "megunoshira"
+
+[[challenge.flags]]
+flag = "YCEP25{w3b_1n_1h3_fTR25743}"
+case_insensitive = true
+
+[[challenge.hints]]
+cost = 0
+content = "UNIX is a great format \n"
+
+[[challenge.services]]
+name = "TimeCapsule"
+path = "service\\"
+ports = [31000]
+type = "web"

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extremely Secure</title>
+</head>
+<body>
+    <h2>Timestamp and OTP Validation</h2>
+    <form id="timestampForm">
+        <label for="opt">Enter OTP:</label>
+        <!-- I hope i dont forget this..... 8911 -->
+        <input type="text" id="opt" name="opt" required>
+        <input type="submit" value="Submit">
+    </form>
+    <div id="response"></div>
+
+    <script>
+        document.getElementById('timestampForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const optValue = document.getElementById('opt').value;
+            const currentTimestamp = Math.floor(Date.now() / 1000); 
+            fetch('/timestamp-endpoint', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'timestamp': currentTimestamp 
+                },
+                body: JSON.stringify({ opt: optValue })
+            })
+            .then(response => response.json())
+            .then(data => {
+                const responseDiv = document.getElementById('response');
+                responseDiv.innerHTML = '';
+
+                if (data.error) {
+                    responseDiv.innerHTML = `<p style="color: red;">Error: ${data.error}</p>`;
+                } else if (data.message) {
+                    responseDiv.innerHTML = `<p style="color: green;">${data.message}</p>`;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                const responseDiv = document.getElementById('response');
+                responseDiv.innerHTML = '<p style="color: red;">Error occurred. Please try again.</p>';
+            });
+        });
+    </script>
+    
+</body>
+</html>
+
+
