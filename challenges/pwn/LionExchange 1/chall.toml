@@ -13,6 +13,7 @@ name = "LionExchange 1"
 files = ["dist\\LionExchange 1.cs"]
 
 [challenge.extras]
+discord = "orangegrouptech"
 
 [[challenge.flags]]
 flag = "YCEP25{N3g4t1v3_T1M35_N3g4t1v3_3qU4L5_Po51t1v3}"
@@ -20,7 +21,7 @@ flag = "YCEP25{N3g4t1v3_T1M35_N3g4t1v3_3qU4L5_Po51t1v3}"
 [[challenge.services]]
 name = "lionexchange1"
 path = "service\\lionexchange1"
-port = 2403
-type = "nc"
+ports = [2403]
+type = "tcp"
 
 [challenge.services.extras]

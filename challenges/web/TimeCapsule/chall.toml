@@ -24,7 +24,7 @@ cost = 0
 content = "UNIX is a great format \n"
 
 [[challenge.services]]
-name = "TimeCapsule"
+name = "time-capsule"
 path = "service\\"
 ports = [31000]
 type = "web"
