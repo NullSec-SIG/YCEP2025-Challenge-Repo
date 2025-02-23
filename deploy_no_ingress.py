@@ -57,6 +57,7 @@ def parse_toml(file_path):
 
     return {
         "name": challenge_data.get("name", "unknown").replace(" ", "-").lower(),
+        "folder_name" : challenge_data.get("folder_name", "unknown").replace(" ", "-").lower(),
         "category": challenge_data.get("category", "misc").replace(" ", "-").lower(),
         "description": challenge_data.get("description", ""),
         "author": challenge_data.get("author", ""),
@@ -80,8 +81,9 @@ def generate_k8s_yaml(challenge, docker_image):
         return None, None, None
 
     service_port = service["ports"][0]
-    # Build the mapping key as "<category>-<challenge_name>-<service_name>"
-    mapping_key = f"{challenge['category']}-{challenge['name']}-{service['name']}"
+    mapping_key = f"{challenge['category']}-{challenge['folder_name']}-{service['name']}"
+    print(f"[DEBUG] Generated mapping key: {mapping_key}")
+    print(f"[DEBUG] Available mapping keys: {list(PORT_MAPPING.keys())}")
     mapping_list = PORT_MAPPING.get(mapping_key)
     if mapping_list:
         mapping_item = next((m for m in mapping_list if m.get("from_port") == service_port), None)
