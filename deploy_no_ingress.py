@@ -34,9 +34,9 @@ def find_challenges(base_dir):
     challenges = []
     for root, _, files in os.walk(base_dir):
         if "chall.toml" in files:
-            for blocked in BLOCKED_CHALLENGES:
-                if blocked in root:
-                    continue
+            if any(blocked in root.lower() for blocked in BLOCKED_CHALLENGES):
+                print(f"[SKIP] Blocking challenge: {root}")
+                continue  # Skip this challenge
             challenges.append(os.path.join(root, "chall.toml"))
     return challenges
 
@@ -203,7 +203,6 @@ def main():
             print(f"[SKIP] {challenge['name']}: No service configuration defined.")
             continue
 
-        # Compute the service path (defaulting to "service" if not provided in the TOML).
         service_dir = challenge["service"].get("path", "service")
         service_path = os.path.join(challenge["challenge_path"], service_dir)
         service_path = service_path.replace("\\", "/")
@@ -211,7 +210,7 @@ def main():
         if not os.path.exists(service_path):
             print(f"[SKIP] {challenge['name']}: Service path does not exist - {service_path}")
             continue
-
+        
         dockerfile_path = os.path.join(service_path, "Dockerfile")
         if os.path.exists(dockerfile_path):
             docker_image = build_and_push_docker_image(challenge, service_path)
