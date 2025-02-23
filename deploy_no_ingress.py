@@ -11,7 +11,7 @@ K8S_DEPLOYMENTS_DIR = "./k8s_deployments"
 USE_DOCKER_HUB = False 
 DOCKER_HUB_USERNAME = "your_dockerhub_username"
 
-BLOCKED_CHALLENGES = ["lion"]
+BLOCKED_CHALLENGES = []
 PORT_MAPPING_FILE = "port_mapping.yaml" 
 
 
