@@ -26,8 +26,12 @@ COPY --from=build-env /app/out .
 # Copy the source code from the build environment to the runtime image
 COPY --from=build-env /app/flag.txt .
 
+RUN ["apt", "update"]
+
+RUN ["apt", "install", "socat", "-y"]
+
 # Expose the port that your application runs on
 EXPOSE 2403
 
 # Run the application
-ENTRYPOINT ["dotnet", "LionExchange 1.dll"]
+ENTRYPOINT ["socat", "TCP-LISTEN:2403,reuseaddr,fork", "EXEC:dotnet LionExchange1.dll"]
