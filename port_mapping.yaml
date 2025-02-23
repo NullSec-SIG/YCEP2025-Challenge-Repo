@@ -1,0 +1,17 @@
+mapping:
+  pwn-flag-shop-flag-shop:
+  - from_port: 10000
+    to_port: 30000
+  pwn-lionexchange-1-lionexchange1:
+  - from_port: 2403
+    to_port: 30001
+  pwn-lionexchange-2-lionexchange2:
+  - from_port: 2404
+    to_port: 30002
+  web-test-web-challenge-test-web:
+  - from_port: 5000
+    to_port: 31000
+  web-timecapsule-time-capsule:
+  - from_port: 31000
+    to_port: 31001
+version: '0.1'
