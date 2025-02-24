@@ -19,5 +19,5 @@
 ## Services (2 total)
 | Service | Challenge | Ports | Type |
 |---------|-----------|-------|------|
-| [test-web](<./Test Web Challenge/service/service>) | [Test Web Challenge](<./Test Web Challenge>) | 5000 | web |
-| [time-capsule](<./TimeCapsule/service>) | [Time Capsule](<./TimeCapsule>) | 31000 | web |
+| [test-web](<./Test Web Challenge/service\service>) | [Test Web Challenge](<./Test Web Challenge>) | 5000 | web |
+| [time-capsule](<./TimeCapsule/service\>) | [Time Capsule](<./TimeCapsule>) | 31000 | web |

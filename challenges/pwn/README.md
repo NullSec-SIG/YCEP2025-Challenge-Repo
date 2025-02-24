@@ -20,6 +20,6 @@
 ## Services (3 total)
 | Service | Challenge | Ports | Type |
 |---------|-----------|-------|------|
-| [flag-shop](<./Flag Shop/service/flag-shop>) | [flag shop](<./Flag Shop>) | 10000 | tcp |
-| [lionexchange1](<./LionExchange 1/service/lionexchange1>) | [LionExchange 1](<./LionExchange 1>) | 2403 | tcp |
-| [lionexchange2](<./LionExchange 2/service/lionexchange2>) | [LionExchange 2](<./LionExchange 2>) | 2404 | tcp |
+| [flag-shop](<./Flag Shop/service\flag-shop>) | [flag shop](<./Flag Shop>) | 10000 | tcp |
+| [lionexchange1](<./LionExchange 1/service\lionexchange1>) | [LionExchange 1](<./LionExchange 1>) | 2403 | tcp |
+| [lionexchange2](<./LionExchange 2/service\lionexchange2>) | [LionExchange 2](<./LionExchange 2>) | 2404 | tcp |
