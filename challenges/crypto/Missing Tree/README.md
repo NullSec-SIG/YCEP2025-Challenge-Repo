@@ -1,7 +1,7 @@
 
 # Missing Tree
 I don't know who or when, but my Morse tree was ripped off. If its possible, can you help me to decode this text?
-
+Also, remember to wrap the text to form the actual flag as in: YCEP25{(decoded-text)}
 
 ## Summary
 - **Author:** Caeden
