@@ -8,7 +8,7 @@
 | Misc | 0 | 0 | 0 | 0 | 0 |
 | Pwn | 2 | 0 | 1 | 0 | 3 |
 | Osint | 0 | 0 | 0 | 0 | 0 |
-| Web | 1 | 1 | 0 | 0 | 2 |
+| Web | 2 | 1 | 0 | 0 | 3 |
 | **Total** |6 | 2 | 1 | 0 | 9 |
 
 
@@ -23,13 +23,15 @@
 | [LionExchange 1](<./pwn/LionExchange 1>) | [LionExchange 1](<./pwn/LionExchange 1>) | Reaping the rewards of NVIDIA's early gamble on... | Pwn | Easy | Chin Ray |
 | [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Hard | Chin Ray |
 | [Test Web Challenge](<./web/Test Web Challenge>) | [Test Web Challenge](<./web/Test Web Challenge>) | Hello World, testing  | Web | Medium | Daksh |
+| [The Shadow Terminal](<./web/The Shadow Terminal>) | [The Shadow Terminal](<./web/The Shadow Terminal>) | Welcome to The Shadow Terminal, an underground... | Web | Easy | Daksh |
 | [Time Capsule](<./web/TimeCapsule>) | [TimeCapsule](<./web/TimeCapsule>) | I made this site to secure my password.... | Web | Easy | Damian |
 
-## Services (5 total)
+## Services (6 total)
 | Service | Challenge | Category | Ports | Type |
 |---------|-----------|----------|-------|------|
 | [flag-shop](<./pwn/Flag Shop/service/flag-shop>) | [flag shop](<./pwn/Flag Shop>) | Pwn | 10000 | tcp |
 | [lionexchange1](<./pwn/LionExchange 1/service/lionexchange1>) | [LionExchange 1](<./pwn/LionExchange 1>) | Pwn | 2403 | tcp |
 | [lionexchange2](<./pwn/LionExchange 2/service/lionexchange2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Pwn | 2404 | tcp |
 | [test-web](<./web/Test Web Challenge/service/service>) | [Test Web Challenge](<./web/Test Web Challenge>) | Web | 5000 | web |
+| [shadow-terminal](<./web/The Shadow Terminal/service/src>) | [The Shadow Terminal](<./web/The Shadow Terminal>) | Web | 80 | web |
 | [time-capsule](<./web/TimeCapsule/service>) | [Time Capsule](<./web/TimeCapsule>) | Web | 31000 | web |
