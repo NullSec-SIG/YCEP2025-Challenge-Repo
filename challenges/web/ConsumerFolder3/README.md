@@ -4,7 +4,7 @@ Nice one! Now for this next on-
 
 -----YOUR SESSION HAS BEEN INTERCEPTED BY THE ISD-----
 --------------INCOMING TRANSMISSION--------------
-So you've broken our first (and second?) versions huh? We've patched it now, so ConsumerFolder is now truly an impregnable fortress.
+So you've broken our first and second versions huh? We've patched it now, so ConsumerFolder is now truly an impregnable fortress.
 Let's see you try, and fail, to solve this one. ISD agents will arrive at your doorstep in 30 minutes.
 -----------------END TRANSMISSION----------------
 
