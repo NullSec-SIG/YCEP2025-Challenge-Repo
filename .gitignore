@@ -1,2 +1,5 @@
 venv/
 dev/
+.vscode/
+bin/
+obj/
