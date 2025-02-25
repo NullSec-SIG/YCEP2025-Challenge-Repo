@@ -4,15 +4,16 @@
 ## Difficulty Distribution
 | Difficulty | Number of Challenges |
 |------------|:--------------------:|
-| Easy | 2 |
+| Easy | 3 |
 | Medium | 1 |
 | Hard | 0 |
 | Insane | 0 |
-| **Total** | **3** |
+| **Total** | **4** |
 
-## Challenges (3 total)
+## Challenges (4 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
+| [ConsumerFolder 1](<./ConsumerFolder1>) | [ConsumerFolder1](<./ConsumerFolder1>) | Hey so, this website stores government records... | Easy | Chin Ray |
 | [Test Web Challenge](<./Test Web Challenge>) | [Test Web Challenge](<./Test Web Challenge>) | Hello World, testing  | Medium | Daksh |
 | [The Shadow Terminal](<./The Shadow Terminal>) | [The Shadow Terminal](<./The Shadow Terminal>) | Welcome to The Shadow Terminal, an underground... | Easy | Daksh |
 | [Time Capsule](<./TimeCapsule>) | [TimeCapsule](<./TimeCapsule>) | I made this site to secure my password.... | Easy | Damian |

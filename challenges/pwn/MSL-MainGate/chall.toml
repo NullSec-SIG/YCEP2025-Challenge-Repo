@@ -7,9 +7,9 @@ version = "0.1"
 [challenge]
 author = "Daksh"
 category = "pwn"
-description = "The laboratory stands hidden behind rusted iron gates, humming with unseen energy. Whispers speak of an ancient incantation—one that, when spoken in just the right way, sends the security system into disarray. Those who dare must be precise, for a single misstep may seal the gates forever..\n"
+description = "LEVEL 1: Main Gate Breach\nThe laboratory stands hidden behind rusted iron gates, humming with unseen energy. Whispers speak of an ancient incantation—one that, when spoken in just the right way, sends the security system into disarray. Those who dare must be precise, for a single misstep may seal the gates forever..\n"
 difficulty = "easy"
-name = "🧪 Mad Scientist Lab - Main Gate Breach"
+name = "Mad Scientist Lab L1"
 folder_name = "MSL-MainGate"
 files = ["dist\\level1", "dist\\level1.c"]
 
