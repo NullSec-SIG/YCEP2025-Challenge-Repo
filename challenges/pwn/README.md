@@ -4,8 +4,8 @@
 ## Difficulty Distribution
 | Difficulty | Number of Challenges |
 |------------|:--------------------:|
-| Easy | 4 |
-| Medium | 0 |
+| Easy | 3 |
+| Medium | 1 |
 | Hard | 1 |
 | Insane | 0 |
 | **Total** | **5** |
@@ -17,7 +17,7 @@
 | [LionExchange 1](<./LionExchange 1>) | [LionExchange 1](<./LionExchange 1>) | Reaping the rewards of NVIDIA's early gamble on... | Easy | Chin Ray |
 | [LionExchange 2](<./LionExchange 2>) | [LionExchange 2](<./LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Hard | Chin Ray |
 | [🧪 Mad Scientist Lab - Main...](<./MSL-MainGate>) | [MSL-MainGate](<./MSL-MainGate>) | The laboratory stands hidden behind rusted iron... | Easy | Daksh |
-| [🧪 Mad Scientist Lab -...](<./MSL-SecretVault>) | [MSL-SecretVault](<./MSL-SecretVault>) | Beyond the shattered defenses, deeper into the... | Easy | Daksh |
+| [🧪 Mad Scientist Lab -...](<./MSL-SecretVault>) | [MSL-SecretVault](<./MSL-SecretVault>) | Beyond the shattered defenses, deeper into the... | Medium | Daksh |
 
 ## Services (5 total)
 | Service | Challenge | Ports | Type |
