@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Caeden"
+category = "crypto"
+description = "I don't know who or when, but my Morse tree was ripped off. If its possible, can you help me to decode this text?\nAlso, remember to wrap the text to form the actual flag as in: YCEP25{(decoded-text)}"
+difficulty = "easy"
+name = "Missing Tree"
+folder_name = "Missing Tree"
+files = ["dist/torn-page.png"]
+
+[challenge.extras]
+discord = "ProximaPrism"
+
+[[challenge.flags]]
+flag = "YCEP25{B1NARY-TR3E}"
+case_insensitive = true
