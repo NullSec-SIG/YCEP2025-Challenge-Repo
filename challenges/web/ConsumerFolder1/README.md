@@ -11,7 +11,6 @@ https://consumerfolder.orangegroup.systems/
 - **Discord:** orangegrouptech
 
 ## Hints
-- `It's not SQLi.` (10 points)
 - `How do you get rid of the blur effect?` (20 points)
 
 ## Files
