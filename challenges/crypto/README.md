@@ -13,8 +13,8 @@
 ## Challenges (2 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
-| [Shifted Secrets](<./Shifted Secrets>) | [Shifted Secrets](<./Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Easy | Ravin |
 | [Missing Tree](<./Missing Tree>) | [Missing Tree](<./Missing Tree>) | I don't know who or when, but my Morse tree was... | Easy | Caeden |
+| [Shifted Secrets](<./Shifted Secrets>) | [Shifted Secrets](<./Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Easy | Ravin |
 
 ## Services (0 total)
 | Service | Challenge | Ports | Type |
