@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ravin"
+category = "forensics"
+description = "To Space and Beyond! or maybe become an object that orbits a larger object\n"
+difficulty = "easy"
+name = "to space!"
+folder_name = "to space"
+files = ["dist/audio.wav"]
+
+[challenge.extras]
+discord = "p3rpl3x"
+
+[[challenge.flags]]
+flag = "YCEP25{S4TELITE}"
+case_insensitive = true

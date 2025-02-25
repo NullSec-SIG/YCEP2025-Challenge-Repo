@@ -3,7 +3,7 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
-| Forensics | 1 | 1 | 0 | 0 | 2 |
+| Forensics | 2 | 1 | 0 | 0 | 3 |
 | Crypto | 2 | 0 | 0 | 0 | 2 |
 | Misc | 0 | 0 | 0 | 0 | 0 |
 | Pwn | 4 | 0 | 1 | 0 | 5 |
@@ -17,6 +17,7 @@
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
 | [Sum Checker](<./forensics/Sum Checker>) | [Sum Checker](<./forensics/Sum Checker>) | 30 files, each locked behind a SHA-256... | Forensics | Easy | Jun Wei |
+| [to space!](<./forensics/to space>) | [to space](<./forensics/to space>) | To Space and Beyond! or maybe become an object... | Forensics | Easy | Ravin |
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
 | [flag shop](<./pwn/Flag Shop>) | [Flag Shop](<./pwn/Flag Shop>) | Testing pwn deployment from YBN CTF. Ignore | Pwn | Easy | YBN |
