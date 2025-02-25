@@ -4,15 +4,11 @@
 4. You will be redirected to a 403 page
 
 Method 1:
-
 5. Open DevTools and press Ctrl+Shift+P, then type **Disable JavaScript**
-
 6. Navigate back to /admin
 
 Method 2:
-
 5. Open Burp Suite, go back to my record and click on Admin Panel
-
 6. Intercept the request
 
 7. Don't get rickrolled by the fake "Azure Active Directory documentation" link
