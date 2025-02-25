@@ -19,9 +19,5 @@ discord = "orangegrouptech"
 flag = "YCEP25{wh0_541d_fr33_lunch35_d0n7_3x157}"
 
 [[challenge.hints]]
-cost = 10
-content = "It's not SQLi."
-
-[[challenge.hints]]
 cost = 20
 content = "How do you get rid of the blur effect?"

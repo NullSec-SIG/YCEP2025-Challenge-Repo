@@ -43,7 +43,7 @@ export default function Records() {
                     <div className="flex flex-col items-center justify-center" style={{ marginBottom: "150px" }}>
                         <Alert variant="info" className="min-w-[30%]">
                             <Alert.Heading>
-                                <div className="flex flex-row items-center w-full">
+                                <div className="flex flex-row items-center w-full font-semibold">
                                     <IoIosInformationCircle style={{ width: "30px", height: "30px", marginRight: "1%" }} />
                                     Don't know where to start? Some examples:
                                 </div>
@@ -139,8 +139,8 @@ function Record({ targetName }) {
                         <div>
                             <Alert variant="danger" style={{ marginLeft: "10%", marginRight: "10%" }}>
                                 <Alert.Heading>
-                                    <div className="flex flex-row items-center w-full">
-                                        <MdError style={{ width: "30px", height: "30px", marginRight: "1%", marginTop: "3px" }} />
+                                    <div className="flex flex-row items-center w-full font-semibold">
+                                        <MdError className="w-[30px] h-[30px] me-2 mt-1"/>
                                         Warning
                                     </div>
                                 </Alert.Heading>
@@ -170,33 +170,23 @@ function Record({ targetName }) {
                                         <img src={names[actualName].picture} className="w-md h-md" style={{ maxWidth: "200px" }} />
                                     </div>
                                     <div className="flex flex-row items-start w-full h-full">
-                                        <div className="flex flex-col justify-center items-start h-full w-1/4">
+                                        <div className="flex flex-col justify-center items-start h-full w-1/4 gap-[30px]">
                                             <h2>Name:</h2>
-                                            <br />
                                             <h2>NRIC:</h2>
-                                            <br />
                                             <h2>School:</h2>
-                                            <br />
                                             <h2>Course:</h2>
-                                            <br />
                                             <h2>Year:</h2>
-                                            <br />
                                             <h2>GPA:</h2>
                                         </div>
-                                        <div className="flex flex-col justify-center items-start h-full w-full">
+                                        <div className="flex flex-col justify-center content-between items-between h-full w-full gap-[30px]">
                                             <h2>{names[actualName].Name}</h2>
-                                            <br />
-                                            <div className={names[actualName].NRIC === "./favicon.png" ? "blur-lg" : ""}>
+                                            <div className={`flex flex-col ${names[actualName].NRIC === "./favicon.png" ? "blur-lg" : ""} gap-[30px]`}>
                                                 {
-                                                    names[actualName].NRIC === "./favicon.png" ? <div style={{ backgroundImage: `url(favicon.png)`, height: "45px", backgroundSize: "cover", backgroundRepeat: "no-repeat" }} /> : <h2>{names[actualName].NRIC}</h2>
+                                                    names[actualName].NRIC === "./favicon.png" ? <div style={{ backgroundImage: `url(favicon.png)`, height: "48px", backgroundSize: "cover", backgroundRepeat: "no-repeat" }} /> : <h2>{names[actualName].NRIC}</h2>
                                                 }
-                                                <br />
                                                 <h2>{names[actualName].School}</h2>
-                                                <br />
                                                 <h2>{names[actualName].Course}</h2>
-                                                <br />
                                                 <h2>{names[actualName].Year}</h2>
-                                                <br />
                                                 <h2>{names[actualName].GPA}</h2>
                                             </div>
                                         </div>
