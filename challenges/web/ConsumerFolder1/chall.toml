@@ -7,7 +7,7 @@ version = "0.1"
 [challenge]
 author = "Chin Ray"
 category = "web"
-description = "Hey so, this website stores government records containing sensitive personal data of all Singaporeans, including their NRICs. Can you help search me up and validate their claims?\n\nhttps://nullsecycep2025-consumerfolder.orangegroup.systems/"
+description = "Hey so, this website stores government records containing sensitive personal data of all Singaporeans, including their NRICs. Can you help search me up and validate their claims?\n\nhttps://consumerfolder.orangegroup.systems/"
 difficulty = "easy"
 name = "ConsumerFolder 1"
 folder_name = "ConsumerFolder1"
