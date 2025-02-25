@@ -8,10 +8,19 @@ mapping:
   pwn-lionexchange-2-lionexchange2:
   - from_port: 2404
     to_port: 30002
+  pwn-msl-maingate-msl-level1:
+  - from_port: 10000
+    to_port: 30003
+  pwn-msl-secretvault-msl-level2:
+  - from_port: 10000
+    to_port: 30004
   web-test-web-challenge-test-web:
   - from_port: 5000
     to_port: 31000
+  web-the-shadow-terminal-shadow-terminal:
+  - from_port: 80
+    to_port: 31001
   web-timecapsule-time-capsule:
   - from_port: 31000
-    to_port: 31001
+    to_port: 31002
 version: '0.1'
