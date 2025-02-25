@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "osint"
+description = "In 1904, a young boy disappeared without a trace from a small town in Indiana, USA — a case that remains one of the state's most unsettling mysteries. Time has blurred the truth, but whispers of an old park in the area suggest it may still hold hidden clues.\n\nYour task: Trace the story, uncover the town, and reveal the name of the park that has been deliberately obscured in our case study image.\n\nBut be warned — some secrets were never meant to be found.\n\nFlag format: YCEP25{full-name-of-park}, no spaces, case-insensitive\n"
+difficulty = "easy"
+name = "vanished whispers"
+folder_name = "vanished whispers"
+files = ["dist\\casestudy.png"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{THEANNAMDICKERSONPARK}"
+case_insensitive = true

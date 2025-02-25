@@ -22,6 +22,7 @@
 | [flag shop](<./pwn/Flag Shop>) | [Flag Shop](<./pwn/Flag Shop>) | Testing pwn deployment from YBN CTF. Ignore | Pwn | Easy | YBN |
 | [LionExchange 1](<./pwn/LionExchange 1>) | [LionExchange 1](<./pwn/LionExchange 1>) | Reaping the rewards of NVIDIA's early gamble on... | Pwn | Easy | Chin Ray |
 | [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Hard | Chin Ray |
+| [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [🧪 Mad Scientist Lab - Main...](<./pwn/MSL-MainGate>) | [MSL-MainGate](<./pwn/MSL-MainGate>) | The laboratory stands hidden behind rusted iron... | Pwn | Easy | Daksh |
 | [🧪 Mad Scientist Lab -...](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | Beyond the shattered defenses, deeper into the... | Pwn | Easy | Daksh |
 | [Test Web Challenge](<./web/Test Web Challenge>) | [Test Web Challenge](<./web/Test Web Challenge>) | Hello World, testing  | Web | Medium | Daksh |
