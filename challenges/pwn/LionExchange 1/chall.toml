@@ -10,6 +10,7 @@ category = "pwn"
 description = "Reaping the rewards of NVIDIA's early gamble on AI and as investments pour in, CEO Jensen Huang consults his financial advisor Soin on how to make the most of it. Soin comes up with the idea of LionExchange, a stock trading app that allows users to buy NVDA stocks. Being a miser however, Jensen outsources development to a sketchy South African company. Not sure what it is, but I heard they once developed this app called Mobile Guardian.\n\nGiven the shadiness of its development, this app would have serious issues that'll definitely get them a ton of negative reviews. Can you find the vulnerability and be the one cashing in instead?"
 difficulty = "easy"
 name = "LionExchange 1"
+folder_name = "LionExchange 1"
 files = ["dist\\LionExchange 1.cs"]
 
 [challenge.extras]
