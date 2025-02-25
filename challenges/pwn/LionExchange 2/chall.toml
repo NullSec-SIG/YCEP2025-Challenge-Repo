@@ -12,7 +12,6 @@ difficulty = "hard"
 name = "LionExchange 2"
 folder_name = "LionExchange 2"
 files = ["dist\\LionExchange2.cs"]
-requirements = ["LionExchange 1"]
 
 [challenge.extras]
 discord = "orangegrouptech"
