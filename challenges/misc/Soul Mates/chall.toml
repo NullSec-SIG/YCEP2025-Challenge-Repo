@@ -1,0 +1,20 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ryan"
+category = "misc"
+description = "White has checkmate in 2 moves. Can you find it?\nflag format: YCEP25{whitemove_blackmove_whitemove}\nexample: YCEP25{rf1_kb2_qh3}\n"
+difficulty = "medium"
+name = "Soul Mates"
+folder_name = "Soul Mates"
+files = ["dist\\board.png"]
+
+[challenge.extras]
+discord = "protato0778"
+
+[[challenge.flags]]
+flag = "YCEP25{bh1_kxa2_qg2#}"
