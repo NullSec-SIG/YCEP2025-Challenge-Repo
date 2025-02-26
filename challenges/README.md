@@ -3,19 +3,20 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
-| Forensics | 2 | 1 | 0 | 0 | 3 |
+| Forensics | 2 | 2 | 0 | 0 | 4 |
 | Crypto | 2 | 0 | 0 | 0 | 2 |
 | Misc | 0 | 0 | 0 | 0 | 0 |
 | Pwn | 3 | 1 | 1 | 0 | 5 |
 | Osint | 1 | 0 | 0 | 0 | 1 |
 | Web | 3 | 1 | 0 | 0 | 4 |
-| **Total** |11 | 3 | 1 | 0 | 15 |
+| **Total** |11 | 4 | 1 | 0 | 16 |
 
 
-## Challenges (15 total)
+## Challenges (16 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
+| [riding WAVes](<./forensics/riding WAVes>) | [riding WAVes](<./forensics/riding WAVes>) | You’ve received an unusual WAV file - but it... | Forensics | Medium | Jun Wei |
 | [Sum Checker](<./forensics/Sum Checker>) | [Sum Checker](<./forensics/Sum Checker>) | 30 files, each locked behind a SHA-256... | Forensics | Easy | Jun Wei |
 | [to space!](<./forensics/to space>) | [to space](<./forensics/to space>) | To Space and Beyond! or maybe become an object... | Forensics | Easy | Ravin |
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
