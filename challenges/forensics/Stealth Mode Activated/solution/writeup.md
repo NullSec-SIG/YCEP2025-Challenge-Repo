@@ -23,17 +23,17 @@ By using `icat` to display the contents of the 2 respective files, we now know t
 
 When we use the fls command with the -r flag to recursively display the contents of the file system, we’ll see a detailed list of all items within the directories, including key system directories like bin.
 
-Notice that the inode number for the `bin` directory is 16385.
+Notice that the inode number for the `bin` directory is 13 (from the very first screenshot).
 
 ![Contents of the bin directory](./images/image5.png)
 
-By specifying the inode number (16385), we can display only the contents of the `bin` directory. Within this directory, we can see that this directory contains many of the common commands used in Linux CLI.
+By specifying the inode number (13), we can display only the contents of the `bin` directory. Within this directory, we can see that this directory contains many of the common commands used in Linux CLI.
 
 ![Suspicious file](./images/image6.png)
 
 Scrolling through the output, we can see that there's a file called "hide". This should raise suspicions as there is no such command in Linux. The description also gives a subtle hint to this, saying that it's "well hidden".
 
-We should note down the inode number of the "hide" file (`298`).
+We should note down the inode number of the "hide" file (`545`).
 
 ![Acquiring the flag](./images/image7.png)
 
