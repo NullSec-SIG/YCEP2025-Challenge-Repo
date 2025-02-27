@@ -1,0 +1,24 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ryan"
+category = "crypto"
+description = "An intercepted message contains highly classified information, but the encryption?\nLet’s just say someone \"cut corners\" when generating their RSA key.\n\nAll that remains from their mistake is one number\n"
+difficulty = "hard"
+name = "Your Algorithm Fails Underpressure"
+folder_name = "Your Algorithm Fails Underpressure"
+files = ["dist\\modulus.txt", "dist\\message.enc"]
+
+[challenge.extras]
+discord = "protato0778"
+
+[[challenge.flags]]
+flag = "YCEP25{FACTOR_ME_IF_YOU_CAN}"
+
+[[challenge.hints]]
+cost = 200
+content = "Factor it out. The answer is in the primes.\n"
