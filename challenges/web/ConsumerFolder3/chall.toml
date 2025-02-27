@@ -1,0 +1,31 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Chin Ray"
+category = "web"
+description = "Nice one! Now for this next on-\n\n-----YOUR SESSION HAS BEEN INTERCEPTED BY THE ISD-----\n--------------INCOMING TRANSMISSION--------------\nSo you've broken our first (and second?) versions huh? We've patched it now, so ConsumerFolder is now truly an impregnable fortress.\nLet's see you try, and fail, to solve this one. ISD agents will arrive at your doorstep in 30 minutes.\n-----------------END TRANSMISSION----------------\n\nHoly shit, damn, hurry up, break it before they come for you!!\n\nhttps://consumerfolder3.orangegroup.systems"
+difficulty = "hard"
+name = "ConsumerFolder 3"
+folder_name = "ConsumerFolder3"
+
+[challenge.extras]
+discord = "orangegrouptech"
+
+[[challenge.flags]]
+flag = "YCEP25{w45_th4t_w0r7h_th3_3ff0rt}"
+
+[[challenge.hints]]
+cost = 150
+content = "The page you want to get to is constantly redirecting to a 403 page. How do you get around it?"
+
+[[challenge.hints]]
+cost = 150
+content = "What can you get from the image?"
+
+[[challenge.hints]]
+cost = 200
+content = "Other than the flag format of YCEP25{} which all those fake flags have, what other character do all flags have in common?"
