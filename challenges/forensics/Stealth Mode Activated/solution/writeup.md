@@ -12,6 +12,11 @@ Doing this will reveal 2 files that are of interest, `hidden_data.txt` and `.i_h
 
 By using `icat` to display the contents of the 2 respective files, we now know that the flag is within the `bin` directory in the file system.
 
+>[!NOTE]
+>![Searching for specific strings](./images/image6.png)
+>Technically, we are also be able to use `srch_strings` and search for terms like "flag". This should reveal the same file above.
+>However, because the actual flag is encoded in base64, this disallows participants from searching for "YCEP25" to get the flag.
+
 ![Contents of the file system](./images/image3.png)
 
 If we display the contents of the file system using the `fls` command with the `-r` flag, we should see a whole bunch of items within the separate directories, including `bin`.
