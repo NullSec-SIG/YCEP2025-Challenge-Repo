@@ -23,6 +23,8 @@
 | [French Frenzy](<./crypto/French Frenzy>) | [French Frenzy](<./crypto/French Frenzy>) | Oh no! My French pen pal accidentally encrypted... | Crypto | Medium | Jun Wei |
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
+| [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
+| [Soul Mates](<./misc/Soul Mates>) | [Soul Mates](<./misc/Soul Mates>) | White has checkmate in 2 moves. Can you find... | Misc | Medium | Ryan |
 | [flag shop](<./pwn/Flag Shop>) | [Flag Shop](<./pwn/Flag Shop>) | Testing pwn deployment from YBN CTF. Ignore | Pwn | Easy | YBN |
 | [LionExchange 1](<./pwn/LionExchange 1>) | [LionExchange 1](<./pwn/LionExchange 1>) | Reaping the rewards of NVIDIA's early gamble on... | Pwn | Easy | Chin Ray |
 | [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Hard | Chin Ray |
