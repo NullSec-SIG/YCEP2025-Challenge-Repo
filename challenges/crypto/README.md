@@ -6,11 +6,11 @@
 |------------|:--------------------:|
 | Easy | 2 |
 | Medium | 1 |
-| Hard | 0 |
+| Hard | 1 |
 | Insane | 0 |
-| **Total** | **3** |
+| **Total** | **4** |
 
-## Challenges (3 total)
+## Challenges (4 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
 | [French Frenzy](<./French Frenzy>) | [French Frenzy](<./French Frenzy>) | Oh no! My French pen pal accidentally encrypted... | Medium | Jun Wei |

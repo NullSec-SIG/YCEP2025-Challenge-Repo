@@ -4,15 +4,15 @@
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
 | Forensics | 2 | 2 | 1 | 0 | 5 |
-| Crypto | 2 | 1 | 0 | 0 | 3 |
-| Misc | 0 | 0 | 0 | 0 | 0 |
+| Crypto | 2 | 1 | 1 | 0 | 4 |
+| Misc | 1 | 1 | 0 | 0 | 2 |
 | Pwn | 3 | 1 | 1 | 0 | 5 |
 | Osint | 1 | 0 | 0 | 0 | 1 |
-| Web | 3 | 1 | 0 | 0 | 4 |
-| **Total** |11 | 5 | 2 | 0 | 18 |
+| Web | 3 | 2 | 1 | 0 | 6 |
+| **Total** |12 | 7 | 4 | 0 | 23 |
 
 
-## Challenges (18 total)
+## Challenges (23 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
@@ -24,6 +24,7 @@
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
+| [Sort and Read](<./misc/Sort and Read>) | [Sort and Read](<./misc/Sort and Read>) | I unintentionally scrambled the content of a... | Misc | Easy | Jun Wei |
 | [Soul Mates](<./misc/Soul Mates>) | [Soul Mates](<./misc/Soul Mates>) | White has checkmate in 2 moves. Can you find... | Misc | Medium | Ryan |
 | [flag shop](<./pwn/Flag Shop>) | [Flag Shop](<./pwn/Flag Shop>) | Testing pwn deployment from YBN CTF. Ignore | Pwn | Easy | YBN |
 | [LionExchange 1](<./pwn/LionExchange 1>) | [LionExchange 1](<./pwn/LionExchange 1>) | Reaping the rewards of NVIDIA's early gamble on... | Pwn | Easy | Chin Ray |
@@ -32,6 +33,8 @@
 | [Mad Scientist Lab L2](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Pwn | Medium | Daksh |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 1](<./web/ConsumerFolder1>) | [ConsumerFolder1](<./web/ConsumerFolder1>) | Hey so, this website stores government records... | Web | Easy | Chin Ray |
+| [ConsumerFolder 2](<./web/ConsumerFolder2>) | [ConsumerFolder2](<./web/ConsumerFolder2>) | Ok, so we have some bad news and good news. The... | Web | Medium | Chin Ray |
+| [ConsumerFolder 3](<./web/ConsumerFolder3>) | [ConsumerFolder3](<./web/ConsumerFolder3>) | Nice one! Now for this next on- -----YOUR... | Web | Hard | Chin Ray |
 | [Test Web Challenge](<./web/Test Web Challenge>) | [Test Web Challenge](<./web/Test Web Challenge>) | Hello World, testing  | Web | Medium | Daksh |
 | [The Shadow Terminal](<./web/The Shadow Terminal>) | [The Shadow Terminal](<./web/The Shadow Terminal>) | Welcome to The Shadow Terminal, an underground... | Web | Easy | Daksh |
 | [Time Capsule](<./web/TimeCapsule>) | [TimeCapsule](<./web/TimeCapsule>) | I made this site to secure my password.... | Web | Easy | Damian |

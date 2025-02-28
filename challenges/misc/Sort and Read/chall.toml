@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "misc"
+description = "I unintentionally scrambled the content of a file, but thankfully the lines are previously labelled with their corresponding line numbers. Can you help me sort them?\n\nSubmit the flag in the following format: YCEP25{flag}\n"
+difficulty = "easy"
+name = "Sort and Read"
+folder_name = "Sort and Read"
+files = ["dist\\file.txt"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{5UCC355FUL1Y_50RT3D}"
+case_insensitive = true
