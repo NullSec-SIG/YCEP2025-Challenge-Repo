@@ -5,14 +5,14 @@
 |----------|:----:|:------:|:----:|:------:|:-----:|
 | Forensics | 2 | 2 | 1 | 0 | 5 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
-| Misc | 1 | 1 | 0 | 0 | 2 |
+| Misc | 2 | 1 | 0 | 0 | 3 |
 | Pwn | 3 | 1 | 1 | 0 | 5 |
 | Osint | 1 | 0 | 0 | 0 | 1 |
 | Web | 3 | 2 | 1 | 0 | 6 |
-| **Total** |12 | 7 | 4 | 0 | 23 |
+| **Total** |13 | 7 | 4 | 0 | 24 |
 
 
-## Challenges (23 total)
+## Challenges (24 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
@@ -24,6 +24,7 @@
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
+| [Grab Flag](<./misc/Grab Flag>) | [Grab Flag](<./misc/Grab Flag>) | I hope you paid attention during the Linux... | Misc | Easy | Jun Wei |
 | [Sort and Read](<./misc/Sort and Read>) | [Sort and Read](<./misc/Sort and Read>) | I unintentionally scrambled the content of a... | Misc | Easy | Jun Wei |
 | [Soul Mates](<./misc/Soul Mates>) | [Soul Mates](<./misc/Soul Mates>) | White has checkmate in 2 moves. Can you find... | Misc | Medium | Ryan |
 | [flag shop](<./pwn/Flag Shop>) | [Flag Shop](<./pwn/Flag Shop>) | Testing pwn deployment from YBN CTF. Ignore | Pwn | Easy | YBN |
