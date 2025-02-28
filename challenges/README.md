@@ -7,12 +7,12 @@
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 2 | 1 | 0 | 0 | 3 |
 | Pwn | 3 | 1 | 1 | 0 | 5 |
-| Osint | 1 | 0 | 0 | 0 | 1 |
+| Osint | 2 | 0 | 0 | 0 | 2 |
 | Web | 3 | 2 | 1 | 0 | 6 |
-| **Total** |13 | 7 | 4 | 0 | 24 |
+| **Total** |14 | 7 | 4 | 0 | 25 |
 
 
-## Challenges (24 total)
+## Challenges (25 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
@@ -32,6 +32,7 @@
 | [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Hard | Chin Ray |
 | [Mad Scientist Lab L1](<./pwn/MSL-MainGate>) | [MSL-MainGate](<./pwn/MSL-MainGate>) | LEVEL 1: Main Gate Breach The laboratory stands... | Pwn | Easy | Daksh |
 | [Mad Scientist Lab L2](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Pwn | Medium | Daksh |
+| [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 1](<./web/ConsumerFolder1>) | [ConsumerFolder1](<./web/ConsumerFolder1>) | Hey so, this website stores government records... | Web | Easy | Chin Ray |
 | [ConsumerFolder 2](<./web/ConsumerFolder2>) | [ConsumerFolder2](<./web/ConsumerFolder2>) | Ok, so we have some bad news and good news. The... | Web | Medium | Chin Ray |
