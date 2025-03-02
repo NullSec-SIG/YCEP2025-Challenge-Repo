@@ -1,0 +1,26 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Daksh"
+category = "pwn"
+description = "LEVEL 2: Secret Vault\nBeyond the shattered defenses, deeper into the lab, lies a chamber filled with cryptic machines and flickering displays. A formula—volatile and powerful—remains locked behind an override mechanism. Its key is hidden in plain sight, yet it bends to those who understand the unseen flow of data. Tread carefully, for the wrong input may erase all traces of its existence...\n"
+difficulty = "medium"
+name = "Mad Scientist Lab L2"
+folder_name = "MSL-SecretVault"
+files = ["dist\\level2"]
+
+[challenge.extras]
+discord = "dakshthapar"
+
+[[challenge.flags]]
+flag = "YCEP25{c0mput3r_0v3rr1d3}"
+
+[[challenge.services]]
+name = "msl-level2"
+path = "service\\level-two"
+ports = [10000]
+type = "tcp"

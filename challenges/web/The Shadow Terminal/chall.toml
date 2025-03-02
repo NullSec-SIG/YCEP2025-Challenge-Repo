@@ -1,0 +1,26 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Daksh"
+category = "web"
+description = "Welcome to The Shadow Terminal, an underground hacker forum where only the elite can access restricted information. \n"
+difficulty = "easy"
+name = "The Shadow Terminal"
+folder_name = "The Shadow Terminal"
+files = ["dist\\website.zip"]
+
+[challenge.extras]
+discord = "dakshthapar"
+
+[[challenge.flags]]
+flag = "YCEP25{W3AK_JWT_PA55W0RD}"
+
+[[challenge.services]]
+name = "shadow-terminal"
+path = "service\\src"
+ports = [80]
+type = "web"

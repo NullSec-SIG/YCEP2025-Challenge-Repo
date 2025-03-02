@@ -1,0 +1,26 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Daksh"
+category = "pwn"
+description = "LEVEL 1: Main Gate Breach\nThe laboratory stands hidden behind rusted iron gates, humming with unseen energy. Whispers speak of an ancient incantation—one that, when spoken in just the right way, sends the security system into disarray. Those who dare must be precise, for a single misstep may seal the gates forever..\n"
+difficulty = "easy"
+name = "Mad Scientist Lab L1"
+folder_name = "MSL-MainGate"
+files = ["dist\\level1", "dist\\level1.c"]
+
+[challenge.extras]
+discord = "dakshthapar"
+
+[[challenge.flags]]
+flag = "YCEP25{c0re_dump3d}"
+
+[[challenge.services]]
+name = "msl-level1"
+path = "service\\level-one-service"
+ports = [10000]
+type = "tcp"

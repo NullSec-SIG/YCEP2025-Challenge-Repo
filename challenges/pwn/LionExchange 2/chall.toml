@@ -10,10 +10,11 @@ category = "pwn"
 description = "Sneaky, huh? Well, Jensen just patched that vulnerability you used to rip him off. He can't have people like you getting in his way when he's trying to overflow his bank account with cash from those sweet sweet GPUs."
 difficulty = "hard"
 name = "LionExchange 2"
+folder_name = "LionExchange 2"
 files = ["dist\\LionExchange2.cs"]
-requirements = ["Unlocked after LionExchange 1"]
 
 [challenge.extras]
+discord = "orangegrouptech"
 
 [[challenge.flags]]
 flag = "YCEP25{1nT3geR_Th1Rty_2_Ov3rFl0W}"
@@ -25,7 +26,7 @@ content = "Anything... special with the variable type used?"
 [[challenge.services]]
 name = "lionexchange2"
 path = "service\\lionexchange2"
-port = 2404
-type = "nc"
+ports = [2404]
+type = "tcp"
 
 [challenge.services.extras]

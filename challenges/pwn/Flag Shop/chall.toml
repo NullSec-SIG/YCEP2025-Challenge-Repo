@@ -9,7 +9,7 @@ author = "YBN"
 category = "pwn"
 description = "Testing pwn deployment from YBN CTF. Ignore\u001a\u001a\n"
 difficulty = "easy"
-name = "Flag Shop"
+name = "flag shop"
 folder_name = "Flag Shop"
 files = ["dist\\flag_shop"]
 

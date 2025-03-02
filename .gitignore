@@ -1,1 +1,6 @@
 venv/
+dev/
+.vscode/
+bin/
+obj/
+YCEP2025-Challenge-Repo.sln
