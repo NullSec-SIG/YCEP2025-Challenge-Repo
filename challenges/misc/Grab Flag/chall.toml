@@ -1,0 +1,25 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "misc"
+description = "I hope you paid attention during the Linux workshop. What does grep do again?\n\nFlag is in the following format: YCEP25{flag}\n"
+difficulty = "easy"
+name = "Grab Flag"
+folder_name = "Grab Flag"
+files = ["dist\\story.txt"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{gr3p_1s_c00l}"
+case_insensitive = true
+
+[[challenge.hints]]
+cost = 50
+content = "How do we display only the lines with a specified string?\n"
