@@ -1,4 +1,4 @@
-name: Generate Compose File
+name: Generate build scripts
 
 on:
   push:
@@ -16,16 +16,25 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install ctf-architect
         run: pip install ctf-architect
 
+      - name: Remove old files
+        run: rm -f compose.yml port_mapping.yml
+
+      - name: Generate compose.yml using module
+        run: python -m ctf_architect.cli repo mapping generate
+
       - name: Generate compose.yml using module
         run: python -m ctf_architect.cli repo compose generate
+
+      - name: Fix compose.yml formatting
+        run: sed -i 's/\\/\//g' compose.yml
 
       - name: Commit generated compose.yml
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'compose.yml'
-          message: 'Generate compose.yml using ctfa'
+          add: "compose.yml"
+          message: "chore: update compose.yml and port_mapping.yml"

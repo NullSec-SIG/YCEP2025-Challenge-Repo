@@ -18,7 +18,7 @@ networks:
     driver: bridge
 services:
   pwn-flag-shop-flag-shop:
-    build: challenges/pwn/Flag Shop/service\flag-shop
+    build: challenges/pwn/Flag Shop/service/flag-shop
     container_name: pwn-flag-shop-flag-shop
     networks:
     - pwn-flag-shop-network
@@ -26,7 +26,7 @@ services:
     - 30000:10000
     restart: always
   pwn-lionexchange-1-lionexchange1:
-    build: challenges/pwn/LionExchange 1/service\lionexchange1
+    build: challenges/pwn/LionExchange 1/service/lionexchange1
     container_name: pwn-lionexchange-1-lionexchange1
     networks:
     - pwn-lionexchange-1-network
@@ -34,7 +34,7 @@ services:
     - 30001:2403
     restart: always
   pwn-lionexchange-2-lionexchange2:
-    build: challenges/pwn/LionExchange 2/service\lionexchange2
+    build: challenges/pwn/LionExchange 2/service/lionexchange2
     container_name: pwn-lionexchange-2-lionexchange2
     networks:
     - pwn-lionexchange-2-network
@@ -42,7 +42,7 @@ services:
     - 30002:2404
     restart: always
   pwn-msl-maingate-msl-level1:
-    build: challenges/pwn/MSL-MainGate/service\level-one-service
+    build: challenges/pwn/MSL-MainGate/service/level-one-service
     container_name: pwn-msl-maingate-msl-level1
     networks:
     - pwn-msl-maingate-network
@@ -50,7 +50,7 @@ services:
     - 30003:10000
     restart: always
   pwn-msl-secretvault-msl-level2:
-    build: challenges/pwn/MSL-SecretVault/service\level-two
+    build: challenges/pwn/MSL-SecretVault/service/level-two
     container_name: pwn-msl-secretvault-msl-level2
     networks:
     - pwn-msl-secretvault-network
@@ -58,7 +58,7 @@ services:
     - 30004:10000
     restart: always
   web-test-web-challenge-test-web:
-    build: challenges/web/Test Web Challenge/service\service
+    build: challenges/web/Test Web Challenge/service/service
     container_name: web-test-web-challenge-test-web
     networks:
     - web-test-web-challenge-network
@@ -66,7 +66,7 @@ services:
     - 31000:5000
     restart: always
   web-the-shadow-terminal-shadow-terminal:
-    build: challenges/web/The Shadow Terminal/service\src
+    build: challenges/web/The Shadow Terminal/service/src
     container_name: web-the-shadow-terminal-shadow-terminal
     networks:
     - web-the-shadow-terminal-network
@@ -74,7 +74,7 @@ services:
     - 31001:80
     restart: always
   web-timecapsule-time-capsule:
-    build: challenges/web/TimeCapsule/service\
+    build: challenges/web/TimeCapsule/service
     container_name: web-timecapsule-time-capsule
     networks:
     - web-timecapsule-network

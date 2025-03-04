@@ -16,6 +16,5 @@ In the case where my script breaks, heres a quick fix
 3. Run this
 
 ```bash
-sed -i 's/\\/\//g' compose.yml # BUG in the current version of ctfa
-docker compose up -d # rebuild the containers, ports should stay the same
+docker compose up -d # rebuild the containers, ports should stay the same, follows port_map
 ```
