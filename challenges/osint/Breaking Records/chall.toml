@@ -1,0 +1,20 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "osint"
+description = "I'm a big fan of Nezha! I heard that the recent animated movie, Nezha 2, has been breaking records and setting new industry milestones. They even have an incredible ice sculpture attaction in China now! I'm really excited to visit, can you help me find out where it is?\n\nSubmit your flag in this format (lowercase, no spaces): YCEP25{city_province}\n\nExample: YCEP25{nanjing_jiangsuprovince}\n"
+difficulty = "easy"
+name = "Breaking Records"
+folder_name = "Breaking Records"
+files = ["dist\\nezha.png"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{changchun_jilinprovince}"

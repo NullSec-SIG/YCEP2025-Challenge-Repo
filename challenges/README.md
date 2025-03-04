@@ -5,14 +5,14 @@
 |----------|:----:|:------:|:----:|:------:|:-----:|
 | Forensics | 2 | 2 | 1 | 0 | 5 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
-| Misc | 0 | 1 | 0 | 0 | 1 |
-| Pwn | 4 | 1 | 1 | 0 | 6 |
-| Osint | 1 | 0 | 0 | 0 | 1 |
+| Misc | 2 | 1 | 0 | 0 | 3 |
+| Pwn | 3 | 1 | 1 | 0 | 5 |
+| Osint | 2 | 1 | 0 | 0 | 3 |
 | Web | 3 | 2 | 1 | 0 | 6 |
-| **Total** |12 | 7 | 4 | 0 | 23 |
+| **Total** |14 | 8 | 4 | 0 | 26 |
 
 
-## Challenges (23 total)
+## Challenges (26 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
@@ -24,12 +24,16 @@
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
+| [Grab Flag](<./misc/Grab Flag>) | [Grab Flag](<./misc/Grab Flag>) | I hope you paid attention during the Linux... | Misc | Easy | Jun Wei |
+| [Sort and Read](<./misc/Sort and Read>) | [Sort and Read](<./misc/Sort and Read>) | I unintentionally scrambled the content of a... | Misc | Easy | Jun Wei |
 | [Soul Mates](<./misc/Soul Mates>) | [Soul Mates](<./misc/Soul Mates>) | White has checkmate in 2 moves. Can you find... | Misc | Medium | Ryan |
 | [flag shop](<./pwn/Flag Shop>) | [Flag Shop](<./pwn/Flag Shop>) | Testing pwn deployment from YBN CTF. Ignore | Pwn | Easy | YBN |
 | [LionExchange 1](<./pwn/LionExchange 1>) | [LionExchange 1](<./pwn/LionExchange 1>) | Reaping the rewards of NVIDIA's early gamble on... | Pwn | Easy | Chin Ray |
 | [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Hard | Chin Ray |
 | [Mad Scientist Lab L1](<./pwn/MSL-MainGate>) | [MSL-MainGate](<./pwn/MSL-MainGate>) | LEVEL 1: Main Gate Breach The laboratory stands... | Pwn | Easy | Daksh |
 | [Mad Scientist Lab L2](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Pwn | Medium | Daksh |
+| [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
+| [Snips and Sips](<./osint/Snips and Sips>) | [Snips and Sips](<./osint/Snips and Sips>) | My brother told me about this aesthetic cafe... | Osint | Medium | Jun Wei |
 | [bof_challenge](<./pwn/train_bofchall>) | [train_bofchall](<./pwn/train_bofchall>) | Pwn Buffer Overflow Challenge! Try it out, we... | Pwn | Easy | Ravin |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 1](<./web/ConsumerFolder1>) | [ConsumerFolder1](<./web/ConsumerFolder1>) | Hey so, this website stores government records... | Web | Easy | Chin Ray |
