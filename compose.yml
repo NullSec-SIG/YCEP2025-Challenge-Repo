@@ -10,8 +10,6 @@ networks:
     driver: bridge
   pwn-msl-secretvault-network:
     driver: bridge
-  web-test-web-challenge-network:
-    driver: bridge
   web-the-shadow-terminal-network:
     driver: bridge
   web-timecapsule-network:
@@ -57,21 +55,13 @@ services:
     ports:
     - 30002:10000
     restart: always
-  web-test-web-challenge-test-web:
-    build: challenges/web/Test Web Challenge/service\service
-    container_name: web-test-web-challenge-test-web
-    networks:
-    - web-test-web-challenge-network
-    ports:
-    - 31000:5000
-    restart: always
   web-the-shadow-terminal-shadow-terminal:
     build: challenges/web/The Shadow Terminal/service\src
     container_name: web-the-shadow-terminal-shadow-terminal
     networks:
     - web-the-shadow-terminal-network
     ports:
-    - 31002:80
+    - 31001:80
     restart: always
   web-timecapsule-time-capsule:
     build: challenges/web/TimeCapsule/service\
@@ -79,5 +69,5 @@ services:
     networks:
     - web-timecapsule-network
     ports:
-    - 31001:31000
+    - 31000:31000
     restart: always
