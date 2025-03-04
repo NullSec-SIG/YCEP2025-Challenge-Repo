@@ -5,14 +5,14 @@
 |----------|:----:|:------:|:----:|:------:|:-----:|
 | Forensics | 3 | 2 | 1 | 0 | 6 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
-| Misc | 3 | 1 | 0 | 0 | 4 |
+| Misc | 4 | 1 | 0 | 0 | 5 |
 | Pwn | 4 | 1 | 1 | 0 | 6 |
 | Osint | 2 | 1 | 0 | 0 | 3 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |17 | 7 | 4 | 0 | 28 |
+| **Total** |18 | 7 | 4 | 0 | 29 |
 
 
-## Challenges (28 total)
+## Challenges (29 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
@@ -25,6 +25,7 @@
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
+| [Crazy Cipher](<./misc/Crazy Cipher>) | [Crazy Cipher](<./misc/Crazy Cipher>) | Is this safe enough for my custom cipher? Is... | Misc | Easy | Daksh |
 | [Grab Flag](<./misc/Grab Flag>) | [Grab Flag](<./misc/Grab Flag>) | I hope you paid attention during the Linux... | Misc | Easy | Jun Wei |
 | [Hidden File Challenge](<./misc/Hidden_File>) | [Hidden_File](<./misc/Hidden_File>) | Find me if you can | Misc | Easy | Daksh |
 | [Sort and Read](<./misc/Sort and Read>) | [Sort and Read](<./misc/Sort and Read>) | I unintentionally scrambled the content of a... | Misc | Easy | Jun Wei |
