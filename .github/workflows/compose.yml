@@ -24,11 +24,14 @@ jobs:
       - name: Remove old files
         run: rm -f compose.yml port_mapping.yaml
 
-      - name: Generate compose.yml using module
+      - name: Generate port_mapping.yaml using module
         run: python -m ctf_architect.cli repo mapping generate --yes
 
       - name: Generate compose.yml using module
         run: python -m ctf_architect.cli repo compose generate --force
+
+      - name: Update stats
+        run: python -m ctf_architect.cli repo stats update
 
       - name: Commit generated compose.yml
         uses: EndBug/add-and-commit@v9
