@@ -19,14 +19,13 @@ jobs:
           python-version: "3.x"
 
       - name: Install ctf-architect
-        run: pip install ctf-architect
+        run: pip install git+https://github.com/DakshRocks21/CTF-Architect
 
       - name: Remove old files
         run: rm -f compose.yml port_mapping.yml
 
-      # Currently doesnt work
-      #   - name: Generate compose.yml using module
-      #     run: python -m ctf_architect.cli repo mapping generate
+      - name: Generate compose.yml using module
+        run: python -m ctf_architect.cli repo mapping generate --yes
 
       - name: Generate compose.yml using module
         run: python -m ctf_architect.cli repo compose generate --force
