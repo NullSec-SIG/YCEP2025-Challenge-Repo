@@ -39,8 +39,8 @@ int main(int argc, char **argv)
     signal(SIGSEGV, sigsegv_handler);
 
     // Drop privileges if running with elevated rights
-    gid_t gid = getegid();
-    setresgid(gid, gid, gid);
+//    gid_t gid = getegid();
+ //   setresgid(gid, gid, gid);
 
     puts("Welcome to the Mad Scientist Lab - Main Gate Security");
     puts("Legend tells that if you crash the security system, the override code is revealed.");
