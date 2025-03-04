@@ -4,15 +4,15 @@
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
 | Forensics | 2 | 2 | 1 | 0 | 5 |
-| Crypto | 2 | 1 | 0 | 0 | 3 |
-| Misc | 0 | 0 | 0 | 0 | 0 |
-| Pwn | 3 | 1 | 1 | 0 | 5 |
+| Crypto | 2 | 1 | 1 | 0 | 4 |
+| Misc | 0 | 1 | 0 | 0 | 1 |
+| Pwn | 4 | 1 | 1 | 0 | 6 |
 | Osint | 1 | 0 | 0 | 0 | 1 |
-| Web | 3 | 1 | 0 | 0 | 4 |
-| **Total** |11 | 5 | 2 | 0 | 18 |
+| Web | 3 | 2 | 1 | 0 | 6 |
+| **Total** |12 | 7 | 4 | 0 | 23 |
 
 
-## Challenges (18 total)
+## Challenges (23 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
@@ -30,8 +30,11 @@
 | [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Hard | Chin Ray |
 | [Mad Scientist Lab L1](<./pwn/MSL-MainGate>) | [MSL-MainGate](<./pwn/MSL-MainGate>) | LEVEL 1: Main Gate Breach The laboratory stands... | Pwn | Easy | Daksh |
 | [Mad Scientist Lab L2](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Pwn | Medium | Daksh |
+| [bof_challenge](<./pwn/train_bofchall>) | [train_bofchall](<./pwn/train_bofchall>) | Pwn Buffer Overflow Challenge! Try it out, we... | Pwn | Easy | Ravin |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 1](<./web/ConsumerFolder1>) | [ConsumerFolder1](<./web/ConsumerFolder1>) | Hey so, this website stores government records... | Web | Easy | Chin Ray |
+| [ConsumerFolder 2](<./web/ConsumerFolder2>) | [ConsumerFolder2](<./web/ConsumerFolder2>) | Ok, so we have some bad news and good news. The... | Web | Medium | Chin Ray |
+| [ConsumerFolder 3](<./web/ConsumerFolder3>) | [ConsumerFolder3](<./web/ConsumerFolder3>) | Nice one! Now for this next on- -----YOUR... | Web | Hard | Chin Ray |
 | [Test Web Challenge](<./web/Test Web Challenge>) | [Test Web Challenge](<./web/Test Web Challenge>) | Hello World, testing  | Web | Medium | Daksh |
 | [The Shadow Terminal](<./web/The Shadow Terminal>) | [The Shadow Terminal](<./web/The Shadow Terminal>) | Welcome to The Shadow Terminal, an underground... | Web | Easy | Daksh |
 | [Time Capsule](<./web/TimeCapsule>) | [TimeCapsule](<./web/TimeCapsule>) | I made this site to secure my password.... | Web | Easy | Damian |

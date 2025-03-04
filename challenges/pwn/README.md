@@ -4,13 +4,13 @@
 ## Difficulty Distribution
 | Difficulty | Number of Challenges |
 |------------|:--------------------:|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 1 |
 | Hard | 1 |
 | Insane | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 
-## Challenges (5 total)
+## Challenges (6 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
 | [flag shop](<./Flag Shop>) | [Flag Shop](<./Flag Shop>) | Testing pwn deployment from YBN CTF. Ignore | Easy | YBN |
@@ -18,6 +18,7 @@
 | [LionExchange 2](<./LionExchange 2>) | [LionExchange 2](<./LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Hard | Chin Ray |
 | [Mad Scientist Lab L1](<./MSL-MainGate>) | [MSL-MainGate](<./MSL-MainGate>) | LEVEL 1: Main Gate Breach The laboratory stands... | Easy | Daksh |
 | [Mad Scientist Lab L2](<./MSL-SecretVault>) | [MSL-SecretVault](<./MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Medium | Daksh |
+| [bof_challenge](<./train_bofchall>) | [train_bofchall](<./train_bofchall>) | Pwn Buffer Overflow Challenge! Try it out, we... | Easy | Ravin |
 
 ## Services (5 total)
 | Service | Challenge | Ports | Type |
