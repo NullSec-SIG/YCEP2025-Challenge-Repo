@@ -1,0 +1,24 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ryan"
+category = "osint"
+description = "My VALORANT duo has gone missing :( Can you help me find him? Here's my tag: hypochondriac#ocean\n"
+difficulty = "medium"
+name = "Missing Duo"
+folder_name = "Missing Duo"
+
+[challenge.extras]
+discord = "protato0778"
+
+[[challenge.flags]]
+flag = "YCEP25{sp1K3}"
+case_insensitive = true
+
+[[challenge.hints]]
+cost = 50
+content = "There should be a website online that allows you to track a valorant user's statistics\n"

@@ -7,12 +7,12 @@
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 4 | 1 | 0 | 0 | 5 |
 | Pwn | 4 | 1 | 1 | 0 | 6 |
-| Osint | 2 | 1 | 0 | 0 | 3 |
+| Osint | 2 | 2 | 0 | 0 | 4 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |18 | 7 | 4 | 0 | 29 |
+| **Total** |18 | 8 | 4 | 0 | 30 |
 
 
-## Challenges (29 total)
+## Challenges (30 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
@@ -37,6 +37,7 @@
 | [Mad Scientist Lab L2](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Pwn | Medium | Daksh |
 | [bof_challenge](<./pwn/train_bofchall>) | [train_bofchall](<./pwn/train_bofchall>) | Pwn Buffer Overflow Challenge! Try it out, we... | Pwn | Easy | Ravin |
 | [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
+| [Missing Duo](<./osint/Missing Duo>) | [Missing Duo](<./osint/Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Osint | Medium | Ryan |
 | [Snips and Sips](<./osint/Snips and Sips>) | [Snips and Sips](<./osint/Snips and Sips>) | My brother told me about this aesthetic cafe... | Osint | Medium | Jun Wei |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 1](<./web/ConsumerFolder1>) | [ConsumerFolder1](<./web/ConsumerFolder1>) | Hey so, this website stores government records... | Web | Easy | Chin Ray |
