@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Daksh"
+category = "misc"
+description = "Find me if you can\n"
+difficulty = "easy"
+name = "Hidden File Challenge"
+folder_name = "Hidden_File"
+files = ["dist\\hidden_file_challenge.zip"]
+
+[challenge.extras]
+discord = "dakshthapar"
+
+[[challenge.flags]]
+flag = "YCEP25{y0u_found_m3}"
+case_insensitive = true
