@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ravin"
+category = "pwn"
+description = "Pwn Buffer Overflow Challenge! Try it out, we will be going through this later in class\n"
+difficulty = "easy"
+name = "bof_challenge"
+folder_name = "train_bofchall"
+files = ["dist/buf-overflow_distrib.c", "dist/buf-overflow"]
+
+[challenge.extras]
+discord = "p3rpl3x"
+
+[[challenge.flags]]
+flag = "YCEP25{N0w_y0u_kn0w_h0w_t0_buffer_overflow}"
+case_insensitive = true
