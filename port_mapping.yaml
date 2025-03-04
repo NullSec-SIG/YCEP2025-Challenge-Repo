@@ -1,26 +1,20 @@
 mapping:
-  pwn-flag-shop-flag-shop:
-  - from_port: 10000
-    to_port: 30000
   pwn-lionexchange-1-lionexchange1:
   - from_port: 2403
     to_port: 30001
   pwn-lionexchange-2-lionexchange2:
   - from_port: 2404
-    to_port: 30002
+    to_port: 30000
   pwn-msl-maingate-msl-level1:
   - from_port: 10000
     to_port: 30003
   pwn-msl-secretvault-msl-level2:
   - from_port: 10000
-    to_port: 30004
-  web-test-web-challenge-test-web:
-  - from_port: 5000
-    to_port: 31000
+    to_port: 30002
   web-the-shadow-terminal-shadow-terminal:
   - from_port: 80
     to_port: 31001
   web-timecapsule-time-capsule:
   - from_port: 31000
-    to_port: 31002
+    to_port: 31000
 version: '0.1'
