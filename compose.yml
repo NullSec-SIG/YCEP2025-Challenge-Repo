@@ -1,7 +1,5 @@
 include: []
 networks:
-  pwn-flag-shop-network:
-    driver: bridge
   pwn-lionexchange-1-network:
     driver: bridge
   pwn-lionexchange-2-network:
@@ -15,14 +13,6 @@ networks:
   web-timecapsule-network:
     driver: bridge
 services:
-  pwn-flag-shop-flag-shop:
-    build: challenges/pwn/Flag Shop/service\flag-shop
-    container_name: pwn-flag-shop-flag-shop
-    networks:
-    - pwn-flag-shop-network
-    ports:
-    - 30003:10000
-    restart: always
   pwn-lionexchange-1-lionexchange1:
     build: challenges/pwn/LionExchange 1/service\lionexchange1
     container_name: pwn-lionexchange-1-lionexchange1
@@ -45,7 +35,7 @@ services:
     networks:
     - pwn-msl-maingate-network
     ports:
-    - 30004:10000
+    - 30003:10000
     restart: always
   pwn-msl-secretvault-msl-level2:
     build: challenges/pwn/MSL-SecretVault/service\level-two
