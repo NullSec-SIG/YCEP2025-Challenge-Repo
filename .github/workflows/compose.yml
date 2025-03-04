@@ -22,7 +22,7 @@ jobs:
         run: pip install git+https://github.com/DakshRocks21/CTF-Architect
 
       - name: Remove old files
-        run: rm -f compose.yml port_mapping.yml
+        run: rm -f compose.yml port_mapping.yaml
 
       - name: Generate compose.yml using module
         run: python -m ctf_architect.cli repo mapping generate --yes
@@ -35,3 +35,5 @@ jobs:
         with:
           add: "compose.yml"
           message: "chore: update compose.yml and port_mapping.yml"
+          author_name: "CTF Architect Updater"
+          author_email: "85815311+DakshRocks21@users.noreply.github.com"
