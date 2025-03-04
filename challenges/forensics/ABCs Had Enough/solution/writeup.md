@@ -1,4 +1,4 @@
-1. Go to C:\Users\Alice\AppData\Local\Microsoft\VisualStudio\BackupFiles\WorldDomination
+1. Go to C:\Users\Alice\Documents
 2. Open the C# file and get the website URL there.
 3. Go to C:\Users\Alice\OneDrive
 4. Open the PowerPoint slides and find the zip file password there
