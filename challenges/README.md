@@ -7,12 +7,12 @@
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 4 | 1 | 0 | 0 | 5 |
 | Pwn | 3 | 1 | 1 | 0 | 5 |
-| Osint | 2 | 1 | 0 | 0 | 3 |
+| Osint | 2 | 2 | 0 | 0 | 4 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |17 | 7 | 4 | 0 | 28 |
+| **Total** |17 | 8 | 4 | 0 | 29 |
 
 
-## Challenges (28 total)
+## Challenges (29 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
@@ -36,6 +36,7 @@
 | [Mad Scientist Lab L1](<./pwn/MSL-MainGate>) | [MSL-MainGate](<./pwn/MSL-MainGate>) | LEVEL 1: Main Gate Breach The laboratory stands... | Pwn | Easy | Daksh |
 | [bof_challenge](<./pwn/train_bofchall>) | [train_bofchall](<./pwn/train_bofchall>) | Pwn Buffer Overflow Challenge! Try it out, we... | Pwn | Easy | Ravin |
 | [Snips and Sips](<./osint/Snips and Sips>) | [Snips and Sips](<./osint/Snips and Sips>) | My brother told me about this aesthetic cafe... | Osint | Medium | Jun Wei |
+| [Missing Duo](<./osint/Missing Duo>) | [Missing Duo](<./osint/Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Osint | Medium | Ryan |
 | [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 3](<./web/ConsumerFolder3>) | [ConsumerFolder3](<./web/ConsumerFolder3>) | Nice one! Now for this next on- -----YOUR... | Web | Hard | Chin Ray |
