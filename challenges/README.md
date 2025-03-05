@@ -6,10 +6,10 @@
 | Forensics | 3 | 3 | 1 | 0 | 7 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 4 | 1 | 0 | 0 | 5 |
-| Pwn | 3 | 1 | 1 | 0 | 5 |
+| Pwn | 3 | 2 | 0 | 0 | 5 |
 | Osint | 2 | 2 | 0 | 0 | 4 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |17 | 9 | 4 | 0 | 30 |
+| **Total** |17 | 10 | 3 | 0 | 30 |
 
 
 ## Challenges (30 total)
@@ -31,7 +31,7 @@
 | [Hidden File Challenge](<./misc/Hidden_File>) | [Hidden_File](<./misc/Hidden_File>) | Find me if you can | Misc | Easy | Daksh |
 | [Crazy Cipher](<./misc/Crazy Cipher>) | [Crazy Cipher](<./misc/Crazy Cipher>) | Is this safe enough for my custom cipher? Is... | Misc | Easy | Daksh |
 | [Grab Flag](<./misc/Grab Flag>) | [Grab Flag](<./misc/Grab Flag>) | I hope you paid attention during the Linux... | Misc | Easy | Jun Wei |
-| [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Hard | Chin Ray |
+| [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Medium | Chin Ray |
 | [LionExchange 1](<./pwn/LionExchange 1>) | [LionExchange 1](<./pwn/LionExchange 1>) | Reaping the rewards of NVIDIA's early gamble on... | Pwn | Easy | Chin Ray |
 | [Mad Scientist Lab L2](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Pwn | Medium | Daksh |
 | [Mad Scientist Lab L1](<./pwn/MSL-MainGate>) | [MSL-MainGate](<./pwn/MSL-MainGate>) | LEVEL 1: Main Gate Breach The laboratory stands... | Pwn | Easy | Daksh |
