@@ -1,16 +1,15 @@
-FROM alpine
+FROM debian:bookworm-slim
 
-RUN adduser -D -s /bin/ash nullsec
+RUN useradd -m -s /bin/bash nullsec
 RUN mkdir -p /home/nullsec/bin
 RUN ln -s /bin/ls /home/nullsec/bin
 WORKDIR /
 
-COPY flag.txt /
-COPY level2 /
+COPY flag.txt /flag.txt
+COPY level2 /level2
 
-RUN apk add socat
-
-RUN chmod 755 /level2
+RUN apt-get update && apt-get install -y socat
+RUN chmod 777 /level2
 RUN chmod 444 /flag.txt
 USER nullsec
 

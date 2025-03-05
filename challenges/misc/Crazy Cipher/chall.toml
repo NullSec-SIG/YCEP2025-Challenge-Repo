@@ -1,0 +1,20 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Daksh"
+category = "misc"
+description = "Is this safe enough for my custom cipher?\nIs this good enough for my school report?\nIs this hack-er proof?\n\n}r1hp1c_drah_yr3v{52PECY\n"
+difficulty = "easy"
+name = "Crazy Cipher"
+folder_name = "Crazy Cipher"
+
+[challenge.extras]
+discord = "dakshthapar"
+
+[[challenge.flags]]
+flag = "YCEP25{v3ry_hard_c1ph1r}"
+case_insensitive = true

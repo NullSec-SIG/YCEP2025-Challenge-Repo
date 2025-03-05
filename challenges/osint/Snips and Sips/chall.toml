@@ -1,0 +1,24 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "osint"
+description = "My brother told me about this aesthetic cafe with perfect vibes and cozy corners. The only problem? I have no clue where it is. I only have this image. Guess I'll have to make do with it...\n\nFlag format: YCEP25{cityname_cafename} \nExample: YCEP25{bangkok_cafeclaire}\n"
+difficulty = "medium"
+name = "Snips and Sips"
+folder_name = "Snips and Sips"
+files = ["dist\\cafe.png"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{lopburi_kyotoshicafe}"
+
+[[challenge.hints]]
+cost = 50
+content = "Why does the image look so weird? Is there any way we can make it look \"normal\"?\n"

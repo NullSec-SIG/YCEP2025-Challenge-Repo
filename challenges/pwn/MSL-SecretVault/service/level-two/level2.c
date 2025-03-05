@@ -2,12 +2,20 @@
 #include <stdlib.h>
 #include <string.h>
 
+void ignore_me_init_buffering()
+{
+    setvbuf(stdout, NULL, _IONBF, 0);
+    setvbuf(stdin, NULL, _IONBF, 0);
+    setvbuf(stderr, NULL, _IONBF, 0);
+}
+
 void vuln()
 {
     char buffer[64];
     unsigned int secret_key = 0;
-    
+
     printf("Enter the override code to unlock the secret compound: ");
+    fflush(stdout);
     gets(buffer);
 
     if (secret_key == 0x1337)
@@ -22,21 +30,26 @@ void vuln()
             exit(1);
         }
 
+        puts("\nOverride accepted!");
 
-        printf("\nOverride accepted!\n");
-        printf("The secret compound formula is: %s\n", flag);
+        fgets(flag, sizeof(flag), fp);
+        flag[sizeof(flag) - 1] = '\0';
+        fclose(fp);
+
+        puts("The secret compound formula is:");
+        puts(flag);
     }
     else
     {
-        printf("\nAccess denied. The override key remains locked.\n");
+        puts("\nAccess denied. The override key remains locked.");
     }
 }
 
 int main()
 {
-    setbuf(stdout, NULL);
-    printf("Welcome to the Mad Scientist Lab - Hidden Compound Chamber\n");
-    printf("Deep within the lab, a secret override key protects the experimental formula.\n");
+    ignore_me_init_buffering();
+    puts("Welcome to the Mad Scientist Lab - Hidden Compound Chamber");
+    puts("Deep within the lab, a secret override key protects the experimental formula.");
 
     vuln();
 
