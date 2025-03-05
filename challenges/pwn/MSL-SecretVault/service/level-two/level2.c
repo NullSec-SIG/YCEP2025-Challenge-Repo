@@ -33,6 +33,7 @@ void vuln()
         puts("\nOverride accepted!");
 
         fgets(flag, sizeof(flag), fp);
+        flag[sizeof(flag) - 1] = '\0';
         fclose(fp);
 
         puts("The secret compound formula is:");

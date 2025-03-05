@@ -15,4 +15,4 @@ USER nullsec
 
 EXPOSE 10000
 
-CMD ["socat", "TCP-LISTEN:10000,reuseaddr,fork", "EXEC:/level2,pty,stderr,setsid"]
+CMD ["socat", "TCP-LISTEN:10000,reuseaddr,fork", "EXEC:/level2"]
