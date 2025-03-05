@@ -3,22 +3,23 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
-| Forensics | 3 | 2 | 1 | 0 | 6 |
+| Forensics | 3 | 3 | 1 | 0 | 7 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 4 | 1 | 0 | 0 | 5 |
 | Pwn | 3 | 1 | 1 | 0 | 5 |
 | Osint | 2 | 2 | 0 | 0 | 4 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |17 | 8 | 4 | 0 | 29 |
+| **Total** |17 | 9 | 4 | 0 | 30 |
 
 
-## Challenges (29 total)
+## Challenges (30 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
 | [Stealth Mode Activated](<./forensics/Stealth Mode Activated>) | [Stealth Mode Activated](<./forensics/Stealth Mode Activated>) | The flag's lost in the chaos of files, lurking... | Forensics | Hard | Jun Wei |
 | [to space!](<./forensics/to space>) | [to space](<./forensics/to space>) | To Space and Beyond! or maybe become an object... | Forensics | Easy | Ravin |
 | [Sum Checker](<./forensics/Sum Checker>) | [Sum Checker](<./forensics/Sum Checker>) | 30 files, each locked behind a SHA-256... | Forensics | Easy | Jun Wei |
+| [ABC's Had Enough](<./forensics/ABCs Had Enough>) | [ABCs Had Enough](<./forensics/ABCs Had Enough>) | Alice, Bob and Charlie have had ENOUGH with... | Forensics | Medium | Chin Ray |
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
 | [riding WAVes](<./forensics/riding WAVes>) | [riding WAVes](<./forensics/riding WAVes>) | You’ve received an unusual WAV file - but it... | Forensics | Medium | Jun Wei |
 | [French Frenzy](<./crypto/French Frenzy>) | [French Frenzy](<./crypto/French Frenzy>) | Oh no! My French pen pal accidentally encrypted... | Crypto | Medium | Jun Wei |
