@@ -6,13 +6,13 @@
 | Forensics | 3 | 2 | 1 | 0 | 6 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 4 | 1 | 0 | 0 | 5 |
-| Pwn | 4 | 1 | 1 | 0 | 6 |
+| Pwn | 3 | 1 | 1 | 0 | 5 |
 | Osint | 2 | 2 | 0 | 0 | 4 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |18 | 8 | 4 | 0 | 30 |
+| **Total** |17 | 8 | 4 | 0 | 29 |
 
 
-## Challenges (30 total)
+## Challenges (29 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
@@ -35,9 +35,8 @@
 | [Mad Scientist Lab L2](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Pwn | Medium | Daksh |
 | [Mad Scientist Lab L1](<./pwn/MSL-MainGate>) | [MSL-MainGate](<./pwn/MSL-MainGate>) | LEVEL 1: Main Gate Breach The laboratory stands... | Pwn | Easy | Daksh |
 | [bof_challenge](<./pwn/train_bofchall>) | [train_bofchall](<./pwn/train_bofchall>) | Pwn Buffer Overflow Challenge! Try it out, we... | Pwn | Easy | Ravin |
-| [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
-| [Missing Duo](<./osint/Missing Duo>) | [Missing Duo](<./osint/Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Osint | Medium | Ryan |
 | [Snips and Sips](<./osint/Snips and Sips>) | [Snips and Sips](<./osint/Snips and Sips>) | My brother told me about this aesthetic cafe... | Osint | Medium | Jun Wei |
+| [Missing Duo](<./osint/Missing Duo>) | [Missing Duo](<./osint/Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Osint | Medium | Ryan |
 | [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 3](<./web/ConsumerFolder3>) | [ConsumerFolder3](<./web/ConsumerFolder3>) | Nice one! Now for this next on- -----YOUR... | Web | Hard | Chin Ray |

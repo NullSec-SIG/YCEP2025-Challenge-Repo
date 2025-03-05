@@ -13,9 +13,8 @@
 ## Challenges (4 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
-| [Breaking Records](<./Breaking Records>) | [Breaking Records](<./Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Easy | Jun Wei |
-| [Missing Duo](<./Missing Duo>) | [Missing Duo](<./Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Medium | Ryan |
 | [Snips and Sips](<./Snips and Sips>) | [Snips and Sips](<./Snips and Sips>) | My brother told me about this aesthetic cafe... | Medium | Jun Wei |
+| [Missing Duo](<./Missing Duo>) | [Missing Duo](<./Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Medium | Ryan |
 | [Breaking Records](<./Breaking Records>) | [Breaking Records](<./Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Easy | Jun Wei |
 | [vanished whispers](<./vanished whispers>) | [vanished whispers](<./vanished whispers>) | In 1904, a young boy disappeared without a... | Easy | Jun Wei |
 
