@@ -4,7 +4,7 @@ Sneaky, huh? Well, Jensen just patched that vulnerability you used to rip him of
 ## Summary
 - **Author:** Chin Ray
 - **Category:** pwn
-- **Difficulty:** hard
+- **Difficulty:** medium 
 
 
 ## Hints

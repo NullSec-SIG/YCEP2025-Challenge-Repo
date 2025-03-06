@@ -3,22 +3,23 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
-| Forensics | 3 | 2 | 1 | 0 | 6 |
+| Forensics | 3 | 3 | 1 | 0 | 7 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 4 | 1 | 0 | 0 | 5 |
-| Pwn | 3 | 1 | 1 | 0 | 5 |
-| Osint | 2 | 1 | 0 | 0 | 3 |
+| Pwn | 3 | 2 | 0 | 0 | 5 |
+| Osint | 2 | 2 | 0 | 0 | 4 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |17 | 7 | 4 | 0 | 28 |
+| **Total** |17 | 10 | 3 | 0 | 30 |
 
 
-## Challenges (28 total)
+## Challenges (30 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
 | [Stealth Mode Activated](<./forensics/Stealth Mode Activated>) | [Stealth Mode Activated](<./forensics/Stealth Mode Activated>) | The flag's lost in the chaos of files, lurking... | Forensics | Hard | Jun Wei |
 | [to space!](<./forensics/to space>) | [to space](<./forensics/to space>) | To Space and Beyond! or maybe become an object... | Forensics | Easy | Ravin |
 | [Sum Checker](<./forensics/Sum Checker>) | [Sum Checker](<./forensics/Sum Checker>) | 30 files, each locked behind a SHA-256... | Forensics | Easy | Jun Wei |
+| [ABC's Had Enough](<./forensics/ABCs Had Enough>) | [ABCs Had Enough](<./forensics/ABCs Had Enough>) | Alice, Bob and Charlie have had ENOUGH with... | Forensics | Medium | Chin Ray |
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
 | [riding WAVes](<./forensics/riding WAVes>) | [riding WAVes](<./forensics/riding WAVes>) | You’ve received an unusual WAV file - but it... | Forensics | Medium | Jun Wei |
 | [French Frenzy](<./crypto/French Frenzy>) | [French Frenzy](<./crypto/French Frenzy>) | Oh no! My French pen pal accidentally encrypted... | Crypto | Medium | Jun Wei |
@@ -30,12 +31,13 @@
 | [Hidden File Challenge](<./misc/Hidden_File>) | [Hidden_File](<./misc/Hidden_File>) | Find me if you can | Misc | Easy | Daksh |
 | [Crazy Cipher](<./misc/Crazy Cipher>) | [Crazy Cipher](<./misc/Crazy Cipher>) | Is this safe enough for my custom cipher? Is... | Misc | Easy | Daksh |
 | [Grab Flag](<./misc/Grab Flag>) | [Grab Flag](<./misc/Grab Flag>) | I hope you paid attention during the Linux... | Misc | Easy | Jun Wei |
-| [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Hard | Chin Ray |
+| [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Medium | Chin Ray |
 | [LionExchange 1](<./pwn/LionExchange 1>) | [LionExchange 1](<./pwn/LionExchange 1>) | Reaping the rewards of NVIDIA's early gamble on... | Pwn | Easy | Chin Ray |
 | [Mad Scientist Lab L2](<./pwn/MSL-SecretVault>) | [MSL-SecretVault](<./pwn/MSL-SecretVault>) | LEVEL 2: Secret Vault Beyond the shattered... | Pwn | Medium | Daksh |
 | [Mad Scientist Lab L1](<./pwn/MSL-MainGate>) | [MSL-MainGate](<./pwn/MSL-MainGate>) | LEVEL 1: Main Gate Breach The laboratory stands... | Pwn | Easy | Daksh |
 | [bof_challenge](<./pwn/train_bofchall>) | [train_bofchall](<./pwn/train_bofchall>) | Pwn Buffer Overflow Challenge! Try it out, we... | Pwn | Easy | Ravin |
 | [Snips and Sips](<./osint/Snips and Sips>) | [Snips and Sips](<./osint/Snips and Sips>) | My brother told me about this aesthetic cafe... | Osint | Medium | Jun Wei |
+| [Missing Duo](<./osint/Missing Duo>) | [Missing Duo](<./osint/Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Osint | Medium | Ryan |
 | [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 3](<./web/ConsumerFolder3>) | [ConsumerFolder3](<./web/ConsumerFolder3>) | Nice one! Now for this next on- -----YOUR... | Web | Hard | Chin Ray |
