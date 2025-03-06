@@ -11,7 +11,7 @@ description = "Alice, Bob and Charlie have had ENOUGH with being used as example
 difficulty = "medium"
 name = "ABC's Had Enough"
 folder_name = "ABCs Had Enough"
-files = ["dist/AliceComputer.ad1"]
+files = ["dist/AliceComputer.E01"]
 
 [challenge.extras]
 discord = "orangegrouptech"
