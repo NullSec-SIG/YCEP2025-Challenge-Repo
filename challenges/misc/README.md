@@ -4,15 +4,16 @@
 ## Difficulty Distribution
 | Difficulty | Number of Challenges |
 |------------|:--------------------:|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 1 |
 | Hard | 0 |
 | Insane | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 
-## Challenges (5 total)
+## Challenges (6 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
+| [can i have the tab](<./can i have the tab>) | [can i have the tab](<./can i have the tab>) | People always say light is at the end of the... | Easy | Jun Wei |
 | [Sort and Read](<./Sort and Read>) | [Sort and Read](<./Sort and Read>) | I unintentionally scrambled the content of a... | Easy | Jun Wei |
 | [Soul Mates](<./Soul Mates>) | [Soul Mates](<./Soul Mates>) | White has checkmate in 2 moves. Can you find... | Medium | Ryan |
 | [Hidden File Challenge](<./Hidden_File>) | [Hidden_File](<./Hidden_File>) | Find me if you can | Easy | Daksh |

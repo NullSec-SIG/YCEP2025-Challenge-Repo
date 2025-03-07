@@ -1,0 +1,25 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "misc"
+description = "People always say light is at the end of the tunnel, but how about the flag?\n"
+difficulty = "easy"
+name = "can i have the tab"
+folder_name = "can i have the tab"
+files = ["dist\\dir1.zip"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{put_th15_0n_my_tab}"
+case_insensitive = true
+
+[[challenge.hints]]
+cost = 50
+content = "How do we get to the bottom of this FAST?\n"

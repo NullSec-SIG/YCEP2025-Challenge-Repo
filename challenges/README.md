@@ -5,14 +5,14 @@
 |----------|:----:|:------:|:----:|:------:|:-----:|
 | Forensics | 3 | 3 | 1 | 0 | 7 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
-| Misc | 4 | 1 | 0 | 0 | 5 |
+| Misc | 5 | 1 | 0 | 0 | 6 |
 | Pwn | 3 | 2 | 0 | 0 | 5 |
 | Osint | 2 | 2 | 0 | 0 | 4 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |17 | 10 | 3 | 0 | 30 |
+| **Total** |18 | 10 | 3 | 0 | 31 |
 
 
-## Challenges (30 total)
+## Challenges (31 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
@@ -26,6 +26,7 @@
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
+| [can i have the tab](<./misc/can i have the tab>) | [can i have the tab](<./misc/can i have the tab>) | People always say light is at the end of the... | Misc | Easy | Jun Wei |
 | [Sort and Read](<./misc/Sort and Read>) | [Sort and Read](<./misc/Sort and Read>) | I unintentionally scrambled the content of a... | Misc | Easy | Jun Wei |
 | [Soul Mates](<./misc/Soul Mates>) | [Soul Mates](<./misc/Soul Mates>) | White has checkmate in 2 moves. Can you find... | Misc | Medium | Ryan |
 | [Hidden File Challenge](<./misc/Hidden_File>) | [Hidden_File](<./misc/Hidden_File>) | Find me if you can | Misc | Easy | Daksh |
