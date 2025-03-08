@@ -1,0 +1,25 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Caeden"
+category = "crypto"
+description = "A cipher to get you started on the harder challenges. Your goal, decrypt the ciphertext.\nRemember to encase the flag in the correct format: YCEP25{}\n"
+difficulty = "medium"
+name = "Alphabetical Affinity"
+folder_name = "Alphabetical Affinity"
+files = ["dist/encryption.py", "dist/a2V5cw==.txt", "dist/ciphertext.txt"]
+
+[challenge.extras]
+discord = "ProximaPrism"
+
+[[challenge.flags]]
+flag = "YCEP25{didyouknowthatmodinverseisinrsa}"
+case_insensitive = true
+
+[[challenge.hints]]
+cost = 200
+content = "The Extended Euclidean algorithm is related to the decryption process of this cipher.\n"
