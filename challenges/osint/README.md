@@ -1,4 +1,3 @@
-
 # Osint Challenges
 
 ## Difficulty Distribution

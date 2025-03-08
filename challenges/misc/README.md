@@ -1,4 +1,3 @@
-
 # Misc Challenges
 
 ## Difficulty Distribution

@@ -1,4 +1,3 @@
-
 # Forensics Challenges
 
 ## Difficulty Distribution

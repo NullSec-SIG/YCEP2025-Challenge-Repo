@@ -1,4 +1,3 @@
-
 # Crypto Challenges
 
 ## Difficulty Distribution
