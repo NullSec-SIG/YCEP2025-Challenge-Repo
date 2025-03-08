@@ -19,7 +19,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install ctf-architect
-        run: pip install git+https://github.com/DakshRocks21/CTF-Architect
+        run: pip install ctf-architect
 
       - name: Remove old files
         run: rm -f compose.yml port_mapping.yaml
