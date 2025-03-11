@@ -3,14 +3,16 @@
 
 For this challenge, we are tasked to find a musician's stage name and their latest single.
 
-From the description, we are expected to pick out certain clues like:
-
-- `Dining place` (Perhaps a restaurant)
-- `Johor Bahru, Malaysia` (Location)
-- `Live music performance`
-- `michrods` (Username of the person who recommended the place)
-- `Christmas` (Time period)
-- `Latest single` (Aforementioned musician has recently released a single)
+>[!NOTE]
+>
+>From the description, we are expected to pick out certain clues like:
+>
+>- `Dining place` (Perhaps a restaurant)
+>- `Johor Bahru, Malaysia` (Location)
+>- `Live music performance`
+>- `michrods` (Username of the person who recommended the place)
+>- `Christmas` (Time period)
+>- `Latest single` (Aforementioned musician has recently released a single)
 
 1. To begin, we can check which platforms have users with the username `michrods`.
 
@@ -62,7 +64,7 @@ In the poster, there is a line that reads:
 Join us at KUROMA to celebrate the festive season with a lavish Christmas buffet and the gentle melodies of live music performance
 ```
 
-This may be hard to pick out given the tiny font size, especially on mobile phone screens.
+This may be hard to pick out due to the tiny font size, especially on mobile phone screens.
 
 Thankfully, as hinted in the challenge, the place is described as a `dining place`, which should shift our attention to the `Restaurants` section in the post description as well. `Kuroma Buffet` is the first restaurant listed there.
 
@@ -70,7 +72,7 @@ Thankfully, as hinted in the challenge, the place is described as a `dining plac
 
 ![Kuroma Buffet](./images/image7.png)
 
-We can first navigate to Kuroma Buffet's `Instagram page`, then scroll down to find content posted during the Christmas period.
+We can first navigate to Kuroma Buffet's `Instagram page`, then scroll down to find the content posted during the Christmas period.
 
 ![Potential musicians](./images/image8.png)
 

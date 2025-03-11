@@ -7,6 +7,7 @@ All I can recall is that this place was recommended by someone who goes by the u
 I also remember something about the musician planning to release a single -  but the name escapes me. Let me know if you can find the musician and their latest single, I still can't get their music out of my head!
 
 Submit your flag in this format: YCEP25{musician's stage name_latest single}
+
 Example: YCEP25{jasminesokko_wecouldbesoelectric}
 
 
