@@ -4,12 +4,12 @@
 | Difficulty | Number of Challenges |
 |------------|:--------------------:|
 | Easy | 3 |
-| Medium | 4 |
-| Hard | 1 |
+| Medium | 5 |
+| Hard | 2 |
 | Insane | 0 |
-| **Total** | **8** |
+| **Total** | **10** |
 
-## Challenges (8 total)
+## Challenges (10 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
 | [TelSigma](<./TelSigma>) | [TelSigma](<./TelSigma>) | Someone disabled SSH on my server… but luckily,... | Easy | Damian |

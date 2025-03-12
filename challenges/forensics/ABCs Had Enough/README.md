@@ -15,8 +15,6 @@ Can you help us recover whatever you can? We need to stop this terror attack bef
 - **Discord:** orangegrouptech
 
 ## Hints
-- `"... Alice has been making the malware on Visual Studio...". Where would you look to find VS related data on the drive?
-` (50 points)
 - `"...sharing files back and forth with Bob and Charlie". What possible file sharing services would there be on Windows?
 Oh and, don't brute force the password. You can't.` (50 points)
 

@@ -7,7 +7,7 @@ version = "0.1"
 [challenge]
 author = "Jun Wei"
 category = "forensics"
-description = "30 files, each locked behind a SHA-256 checksum, and the task is clear: figure out which one has the real flag. It's like being handed a stack of cryptic treasure maps and told, 'Good luck, no pressure!'\n"
+description = "30 files, each locked behind a SHA-256 checksum, and the task is clear: figure out which one has the real flag. It's like being handed a stack of cryptic treasure maps and told, 'Good luck, no pressure!'\n\nChecksum: a91561aa9ce79c721f66a7d846128df4f81d11937fd723860ad92547ff2e814e\n"
 difficulty = "easy"
 name = "Sum Checker"
 folder_name = "Sum Checker"

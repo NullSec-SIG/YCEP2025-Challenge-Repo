@@ -7,7 +7,7 @@ version = "0.1"
 [challenge]
 author = "Chin Ray"
 category = "web"
-description = "Nice one! Now for this next on-\n\n-----YOUR SESSION HAS BEEN INTERCEPTED BY THE ISD-----\n--------------INCOMING TRANSMISSION--------------\nSo you've broken our first (and second?) versions huh? We've patched it now, so ConsumerFolder is now truly an impregnable fortress.\nLet's see you try, and fail, to solve this one. ISD agents will arrive at your doorstep in 30 minutes.\n-----------------END TRANSMISSION----------------\n\nHoly shit, damn, hurry up, break it before they come for you!!\n\nhttps://consumerfolder3.orangegroup.systems"
+description = "Nice one! Now for this next on-\n\n-----YOUR SESSION HAS BEEN INTERCEPTED BY THE ISD-----\n\n---------INCOMING TRANSMISSION---------\n\nSo you've broken our first (and second?) versions huh? We've patched it now, so ConsumerFolder is now truly an impregnable fortress.\nLet's see you try, and fail, to solve this one. ISD agents will arrive at your doorstep in 30 minutes.\n\n------------END TRANSMISSION-----------\n\nHoly shit, damn, hurry up, break it before they come for you!!\n\nhttps://consumerfolder3.orangegroup.systems"
 difficulty = "hard"
 name = "ConsumerFolder 3"
 folder_name = "ConsumerFolder3"

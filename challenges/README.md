@@ -6,15 +6,12 @@
 | Forensics | 3 | 3 | 1 | 0 | 7 |
 | Crypto | 2 | 2 | 1 | 0 | 5 |
 | Forensics | 3 | 4 | 2 | 0 | 9 |
-| Forensics | 3 | 4 | 1 | 0 | 8 |
-| Crypto | 2 | 1 | 1 | 0 | 4 |
-| Misc | 5 | 1 | 0 | 0 | 6 |
-| Pwn | 3 | 2 | 0 | 0 | 5 |
-| Osint | 2 | 3 | 0 | 0 | 5 |
-| Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |18 | 11 | 3 | 0 | 32 |
+| Crypto | 3 | 1 | 1 | 0 | 5 |
+| Osint | 2 | 3 | 1 | 0 | 6 |
+| **Total** |19 | 14 | 5 | 1 | 39 |
 
-## Challenges (33 total)
+
+## Challenges (39 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
@@ -29,13 +26,16 @@
 | [Mega Matroyshka](<./forensics/Mega Matroyshka>) | [Mega Matroyshka](<./forensics/Mega Matroyshka>) | It seems like the dolls have reproduced. Now... | Forensics | Hard | Ryan |
 | [French Frenzy](<./crypto/French Frenzy>) | [French Frenzy](<./crypto/French Frenzy>) | Oh no! My French pen pal accidentally encrypted... | Crypto | Medium | Jun Wei |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
+| [Ceiling46](<./crypto/Ceiling46>) | [Ceiling46](<./crypto/Ceiling46>) | I just found this weird series of text while... | Crypto | Easy | Chin Ray |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
 | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | A cipher to get you started on the harder challenges... | Crypto | Medium | Caeden
 | [can i have the tab](<./misc/can i have the tab>) | [can i have the tab](<./misc/can i have the tab>) | People always say light is at the end of the... | Misc | Easy | Jun Wei |
+| [Sh3llSh0ck](<./misc/Sh3llSh0ck>) | [Sh3llSh0ck](<./misc/Sh3llSh0ck>) | So the other day my friends introduced me to... | Misc | Insane | Chin Ray |
 | [Sort and Read](<./misc/Sort and Read>) | [Sort and Read](<./misc/Sort and Read>) | I unintentionally scrambled the content of a... | Misc | Easy | Jun Wei |
 | [Soul Mates](<./misc/Soul Mates>) | [Soul Mates](<./misc/Soul Mates>) | White has checkmate in 2 moves. Can you find... | Misc | Medium | Ryan |
 | [Hidden File Challenge](<./misc/Hidden_File>) | [Hidden_File](<./misc/Hidden_File>) | Find me if you can | Misc | Easy | Daksh |
+| [Extensions](<./misc/Extensions>) | [Extensions](<./misc/Extensions>) | I was told that the flag is separated into 3... | Misc | Medium | Jun Wei |
 | [Crazy Cipher](<./misc/Crazy Cipher>) | [Crazy Cipher](<./misc/Crazy Cipher>) | Is this safe enough for my custom cipher? Is... | Misc | Easy | Daksh |
 | [Grab Flag](<./misc/Grab Flag>) | [Grab Flag](<./misc/Grab Flag>) | I hope you paid attention during the Linux... | Misc | Easy | Jun Wei |
 | [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Medium | Chin Ray |
@@ -47,6 +47,7 @@
 | [Missing Duo](<./osint/Missing Duo>) | [Missing Duo](<./osint/Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Osint | Medium | Ryan |
 | [Help Me!](<./osint/Help Me>) | [Help Me](<./osint/Help Me>) | It was a busy week at work, and unfortunately,... | Osint | Medium | Damian |
 | [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
+| [Etched in memory](<./osint/Etched in memory>) | [Etched in memory](<./osint/Etched in memory>) | A few months back, I stumbled upon this amazing... | Osint | Hard | Jun Wei |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 3](<./web/ConsumerFolder3>) | [ConsumerFolder3](<./web/ConsumerFolder3>) | Nice one! Now for this next on- -----YOUR... | Web | Hard | Chin Ray |
 | [ConsumerFolder 1](<./web/ConsumerFolder1>) | [ConsumerFolder1](<./web/ConsumerFolder1>) | Hey so, this website stores government records... | Web | Easy | Chin Ray |
