@@ -3,17 +3,16 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
-| Forensics | 3 | 4 | 2 | 0 | 9 |
-| Forensics | 3 | 4 | 1 | 0 | 8 |
+| Forensics | 3 | 5 | 2 | 0 | 10 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 5 | 1 | 0 | 0 | 6 |
 | Pwn | 3 | 2 | 0 | 0 | 5 |
 | Osint | 2 | 3 | 0 | 0 | 5 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |18 | 12 | 3 | 0 | 33 |
+| **Total** |18 | 13 | 4 | 0 | 35 |
 
 
-## Challenges (33 total)
+## Challenges (35 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
