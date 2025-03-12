@@ -5,11 +5,11 @@
 |----------|:----:|:------:|:----:|:------:|:-----:|
 | Forensics | 3 | 5 | 2 | 0 | 10 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
-| Misc | 5 | 1 | 0 | 0 | 6 |
+| Misc | 5 | 2 | 0 | 0 | 7 |
 | Pwn | 3 | 2 | 0 | 0 | 5 |
-| Osint | 2 | 3 | 0 | 0 | 5 |
+| Osint | 2 | 2 | 1 | 0 | 5 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |18 | 13 | 4 | 0 | 35 |
+| **Total** |18 | 11 | 4 | 0 | 33 |
 
 
 ## Challenges (35 total)
@@ -33,6 +33,7 @@
 | [Sort and Read](<./misc/Sort and Read>) | [Sort and Read](<./misc/Sort and Read>) | I unintentionally scrambled the content of a... | Misc | Easy | Jun Wei |
 | [Soul Mates](<./misc/Soul Mates>) | [Soul Mates](<./misc/Soul Mates>) | White has checkmate in 2 moves. Can you find... | Misc | Medium | Ryan |
 | [Hidden File Challenge](<./misc/Hidden_File>) | [Hidden_File](<./misc/Hidden_File>) | Find me if you can | Misc | Easy | Daksh |
+| [Extensions](<./misc/Extensions>) | [Extensions](<./misc/Extensions>) | I was told that the flag is separated into 3... | Misc | Medium | Jun Wei |
 | [Crazy Cipher](<./misc/Crazy Cipher>) | [Crazy Cipher](<./misc/Crazy Cipher>) | Is this safe enough for my custom cipher? Is... | Misc | Easy | Daksh |
 | [Grab Flag](<./misc/Grab Flag>) | [Grab Flag](<./misc/Grab Flag>) | I hope you paid attention during the Linux... | Misc | Easy | Jun Wei |
 | [LionExchange 2](<./pwn/LionExchange 2>) | [LionExchange 2](<./pwn/LionExchange 2>) | Sneaky, huh? Well, Jensen just patched that... | Pwn | Medium | Chin Ray |
@@ -44,6 +45,7 @@
 | [Missing Duo](<./osint/Missing Duo>) | [Missing Duo](<./osint/Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Osint | Medium | Ryan |
 | [Help Me!](<./osint/Help Me>) | [Help Me](<./osint/Help Me>) | It was a busy week at work, and unfortunately,... | Osint | Medium | Damian |
 | [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
+| [Etched in memory](<./osint/Etched in memory>) | [Etched in memory](<./osint/Etched in memory>) | A few months back, I stumbled upon this amazing... | Osint | Hard | Jun Wei |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 3](<./web/ConsumerFolder3>) | [ConsumerFolder3](<./web/ConsumerFolder3>) | Nice one! Now for this next on- -----YOUR... | Web | Hard | Chin Ray |
 | [ConsumerFolder 1](<./web/ConsumerFolder1>) | [ConsumerFolder1](<./web/ConsumerFolder1>) | Hey so, this website stores government records... | Web | Easy | Chin Ray |
