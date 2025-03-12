@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Damian"
+category = "osint"
+description = "It was a busy week at work, and unfortunately, I didn't have the chance to visit the mall I had planned to check out during my stay at that country. I was told it's one of the most popular malls, though I can't quite remember the name. I only remember it’s being within 20 minutes from the airport I was at. Can you help me find it?\n\nThe airport code and mall name should all be in lowercase.\n\nFLAG FORMAT: YCEP25{<CODE OF THE AIRPORT>_<MALLNAME>}\nEXAMPLE: YCEP25{sin_northpointcity}\n"
+difficulty = "medium"
+name = "Help Me!"
+folder_name = "Help Me"
+files = ["dist\\IMG20250306152216.jpg"]
+
+[challenge.extras]
+discord = "megunoshira"
+
+[[challenge.flags]]
+flag = "YCEP25{szb_1utama}"
+case_insensitive = true
