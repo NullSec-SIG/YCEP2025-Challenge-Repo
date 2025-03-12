@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "forensics"
+description = "This is a binwalk practice challenge to be gone through during the workshop.\n"
+difficulty = "easy"
+name = "train_calming"
+folder_name = "train_calming"
+files = ["dist\\calming.jpg"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{pr3tty_c00l_1m4ge_m4g1c}"
+case_insensitive = true
