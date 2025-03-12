@@ -5,14 +5,16 @@
 |----------|:----:|:------:|:----:|:------:|:-----:|
 | Forensics | 3 | 3 | 1 | 0 | 7 |
 | Crypto | 2 | 2 | 1 | 0 | 5 |
+| Forensics | 3 | 4 | 2 | 0 | 9 |
+| Forensics | 3 | 4 | 1 | 0 | 8 |
+| Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 5 | 1 | 0 | 0 | 6 |
 | Pwn | 3 | 2 | 0 | 0 | 5 |
-| Osint | 2 | 2 | 0 | 0 | 4 |
+| Osint | 2 | 3 | 0 | 0 | 5 |
 | Web | 3 | 1 | 1 | 0 | 5 |
 | **Total** |18 | 11 | 3 | 0 | 32 |
 
-
-## Challenges (32 total)
+## Challenges (33 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
@@ -20,8 +22,11 @@
 | [to space!](<./forensics/to space>) | [to space](<./forensics/to space>) | To Space and Beyond! or maybe become an object... | Forensics | Easy | Ravin |
 | [Sum Checker](<./forensics/Sum Checker>) | [Sum Checker](<./forensics/Sum Checker>) | 30 files, each locked behind a SHA-256... | Forensics | Easy | Jun Wei |
 | [ABC's Had Enough](<./forensics/ABCs Had Enough>) | [ABCs Had Enough](<./forensics/ABCs Had Enough>) | Alice, Bob and Charlie have had ENOUGH with... | Forensics | Medium | Chin Ray |
+| [Matryoshka](<./forensics/Matryoshka>) | [Matryoshka](<./forensics/Matryoshka>) | I accidentally thew all my Matryoshka dolls in... | Forensics | Medium | Ryan |
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
+| [Through Out](<./forensics/Through Out>) | [Through Out](<./forensics/Through Out>) | I got this zip from a friend who swears they... | Forensics | Medium | Damian |
 | [riding WAVes](<./forensics/riding WAVes>) | [riding WAVes](<./forensics/riding WAVes>) | You’ve received an unusual WAV file - but it... | Forensics | Medium | Jun Wei |
+| [Mega Matroyshka](<./forensics/Mega Matroyshka>) | [Mega Matroyshka](<./forensics/Mega Matroyshka>) | It seems like the dolls have reproduced. Now... | Forensics | Hard | Ryan |
 | [French Frenzy](<./crypto/French Frenzy>) | [French Frenzy](<./crypto/French Frenzy>) | Oh no! My French pen pal accidentally encrypted... | Crypto | Medium | Jun Wei |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
@@ -40,6 +45,7 @@
 | [bof_challenge](<./pwn/train_bofchall>) | [train_bofchall](<./pwn/train_bofchall>) | Pwn Buffer Overflow Challenge! Try it out, we... | Pwn | Easy | Ravin |
 | [Snips and Sips](<./osint/Snips and Sips>) | [Snips and Sips](<./osint/Snips and Sips>) | My brother told me about this aesthetic cafe... | Osint | Medium | Jun Wei |
 | [Missing Duo](<./osint/Missing Duo>) | [Missing Duo](<./osint/Missing Duo>) | My VALORANT duo has gone missing :( Can you... | Osint | Medium | Ryan |
+| [Help Me!](<./osint/Help Me>) | [Help Me](<./osint/Help Me>) | It was a busy week at work, and unfortunately,... | Osint | Medium | Damian |
 | [Breaking Records](<./osint/Breaking Records>) | [Breaking Records](<./osint/Breaking Records>) | I'm a big fan of Nezha! I heard that the recent... | Osint | Easy | Jun Wei |
 | [vanished whispers](<./osint/vanished whispers>) | [vanished whispers](<./osint/vanished whispers>) | In 1904, a young boy disappeared without a... | Osint | Easy | Jun Wei |
 | [ConsumerFolder 3](<./web/ConsumerFolder3>) | [ConsumerFolder3](<./web/ConsumerFolder3>) | Nice one! Now for this next on- -----YOUR... | Web | Hard | Chin Ray |
