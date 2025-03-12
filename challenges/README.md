@@ -3,12 +3,11 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
-| Forensics | 3 | 5 | 2 | 0 | 10 |
+| Forensics | 3 | 3 | 1 | 0 | 7 |
+| Crypto | 2 | 2 | 1 | 0 | 5 |
+| Forensics | 3 | 4 | 2 | 0 | 9 |
 | Crypto | 3 | 1 | 1 | 0 | 5 |
-| Misc | 5 | 2 | 0 | 1 | 8 |
-| Pwn | 3 | 2 | 0 | 0 | 5 |
 | Osint | 2 | 3 | 1 | 0 | 6 |
-| Web | 3 | 1 | 1 | 0 | 5 |
 | **Total** |19 | 14 | 5 | 1 | 39 |
 
 
@@ -30,6 +29,7 @@
 | [Ceiling46](<./crypto/Ceiling46>) | [Ceiling46](<./crypto/Ceiling46>) | I just found this weird series of text while... | Crypto | Easy | Chin Ray |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |
 | [Missing Tree](<./crypto/Missing Tree>) | [Missing Tree](<./crypto/Missing Tree>) | I don't know who or when, but my Morse tree was... | Crypto | Easy | Caeden |
+| [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | A cipher to get you started on the harder challenges... | Crypto | Medium | Caeden
 | [can i have the tab](<./misc/can i have the tab>) | [can i have the tab](<./misc/can i have the tab>) | People always say light is at the end of the... | Misc | Easy | Jun Wei |
 | [Sh3llSh0ck](<./misc/Sh3llSh0ck>) | [Sh3llSh0ck](<./misc/Sh3llSh0ck>) | So the other day my friends introduced me to... | Misc | Insane | Chin Ray |
 | [Sort and Read](<./misc/Sort and Read>) | [Sort and Read](<./misc/Sort and Read>) | I unintentionally scrambled the content of a... | Misc | Easy | Jun Wei |

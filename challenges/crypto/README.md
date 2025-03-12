@@ -17,6 +17,7 @@
 | [Ceiling46](<./Ceiling46>) | [Ceiling46](<./Ceiling46>) | I just found this weird series of text while... | Easy | Chin Ray |
 | [Your Algorithm Fails...](<./Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Hard | Ryan |
 | [Missing Tree](<./Missing Tree>) | [Missing Tree](<./Missing Tree>) | I don't know who or when, but my Morse tree was... | Easy | Caeden |
+| [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | A cipher to get you started on the harder challenges... | Medium | Caeden
 
 ## Services (0 total)
 | Service | Challenge | Ports | Type |
