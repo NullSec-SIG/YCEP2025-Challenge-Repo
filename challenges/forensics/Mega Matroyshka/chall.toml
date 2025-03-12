@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ryan"
+category = "forensics"
+description = "It seems like the dolls have reproduced. Now there are 100 generations of Matroyshka dolls. Can you find the flag?\n"
+difficulty = "hard"
+name = "Mega Matroyshka"
+folder_name = "Mega Matroyshka"
+files = ["dist\\mega_matroyshka.jpeg"]
+
+[challenge.extras]
+discord = "protato0778"
+
+[[challenge.flags]]
+flag = "YCEP25{m3g4_m4try0shk4_100_l4yers}"
+case_insensitive = true

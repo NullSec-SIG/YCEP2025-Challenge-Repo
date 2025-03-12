@@ -3,6 +3,7 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
+| Forensics | 3 | 4 | 2 | 0 | 9 |
 | Forensics | 3 | 4 | 1 | 0 | 8 |
 | Crypto | 2 | 1 | 1 | 0 | 4 |
 | Misc | 5 | 1 | 0 | 0 | 6 |
@@ -20,9 +21,11 @@
 | [to space!](<./forensics/to space>) | [to space](<./forensics/to space>) | To Space and Beyond! or maybe become an object... | Forensics | Easy | Ravin |
 | [Sum Checker](<./forensics/Sum Checker>) | [Sum Checker](<./forensics/Sum Checker>) | 30 files, each locked behind a SHA-256... | Forensics | Easy | Jun Wei |
 | [ABC's Had Enough](<./forensics/ABCs Had Enough>) | [ABCs Had Enough](<./forensics/ABCs Had Enough>) | Alice, Bob and Charlie have had ENOUGH with... | Forensics | Medium | Chin Ray |
+| [Matryoshka](<./forensics/Matryoshka>) | [Matryoshka](<./forensics/Matryoshka>) | I accidentally thew all my Matryoshka dolls in... | Forensics | Medium | Ryan |
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
 | [Through Out](<./forensics/Through Out>) | [Through Out](<./forensics/Through Out>) | I got this zip from a friend who swears they... | Forensics | Medium | Damian |
 | [riding WAVes](<./forensics/riding WAVes>) | [riding WAVes](<./forensics/riding WAVes>) | You’ve received an unusual WAV file - but it... | Forensics | Medium | Jun Wei |
+| [Mega Matroyshka](<./forensics/Mega Matroyshka>) | [Mega Matroyshka](<./forensics/Mega Matroyshka>) | It seems like the dolls have reproduced. Now... | Forensics | Hard | Ryan |
 | [French Frenzy](<./crypto/French Frenzy>) | [French Frenzy](<./crypto/French Frenzy>) | Oh no! My French pen pal accidentally encrypted... | Crypto | Medium | Jun Wei |
 | [Shifted Secrets](<./crypto/Shifted Secrets>) | [Shifted Secrets](<./crypto/Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Crypto | Easy | Ravin |
 | [Your Algorithm Fails...](<./crypto/Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./crypto/Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Crypto | Hard | Ryan |

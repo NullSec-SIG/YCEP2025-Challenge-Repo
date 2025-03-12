@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ryan"
+category = "forensics"
+description = "I accidentally thew all my Matryoshka dolls in the BIN\n"
+difficulty = "medium"
+name = "Matryoshka"
+folder_name = "Matryoshka"
+files = ["dist\\matroyshka.jpeg"]
+
+[challenge.extras]
+discord = "protato0778"
+
+[[challenge.flags]]
+flag = "YCEP25{lay3rs_up0n_l4yers}"
+case_insensitive = true
