@@ -5,11 +5,11 @@
 |------------|:--------------------:|
 | Easy | 3 |
 | Medium | 4 |
-| Hard | 2 |
+| Hard | 1 |
 | Insane | 0 |
-| **Total** | **9** |
+| **Total** | **8** |
 
-## Challenges (9 total)
+## Challenges (8 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
 | [TelSigma](<./TelSigma>) | [TelSigma](<./TelSigma>) | Someone disabled SSH on my server… but luckily,... | Easy | Damian |
@@ -19,6 +19,7 @@
 | [ABC's Had Enough](<./ABCs Had Enough>) | [ABCs Had Enough](<./ABCs Had Enough>) | Alice, Bob and Charlie have had ENOUGH with... | Medium | Chin Ray |
 | [Matryoshka](<./Matryoshka>) | [Matryoshka](<./Matryoshka>) | I accidentally thew all my Matryoshka dolls in... | Medium | Ryan |
 | [I Love Crackers](<./I Love Crackers>) | [I Love Crackers](<./I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Medium | Ravin |
+| [Through Out](<./Through Out>) | [Through Out](<./Through Out>) | I got this zip from a friend who swears they... | Medium | Damian |
 | [riding WAVes](<./riding WAVes>) | [riding WAVes](<./riding WAVes>) | You’ve received an unusual WAV file - but it... | Medium | Jun Wei |
 | [Mega Matroyshka](<./Mega Matroyshka>) | [Mega Matroyshka](<./Mega Matroyshka>) | It seems like the dolls have reproduced. Now... | Hard | Ryan |
 

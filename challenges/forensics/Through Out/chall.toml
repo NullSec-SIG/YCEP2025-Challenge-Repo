@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Damian"
+category = "forensics"
+description = "I got this zip from a friend who swears they hid the redeem code inside... but no matter how hard I look, I just can't find it. Can you?\n"
+difficulty = "medium"
+name = "Through Out"
+folder_name = "Through Out"
+files = ["dist\\areyoutheone.zip"]
+
+[challenge.extras]
+discord = "megunoshira"
+
+[[challenge.flags]]
+flag = "YCEP25{1m_7h3_h0nO43D_on3}"
+case_insensitive = true
