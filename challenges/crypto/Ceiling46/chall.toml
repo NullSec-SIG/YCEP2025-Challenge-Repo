@@ -1,0 +1,19 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Chin Ray"
+category = "crypto"
+description = "I just found this weird series of text while solving a CTF challenge. Can you help me decode it?\n\nUlZYSTI1e2cwbV9tYTRtXzUzdm5rM18xZ2cxbX0="
+difficulty = "easy"
+name = "Ceiling46"
+folder_name = "Ceiling46"
+
+[challenge.extras]
+discord = "orangegrouptech"
+
+[[challenge.flags]]
+flag = "YCEP25{n0t_th4t_53cur3_1nn1t}"
