@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ravin"
+category = "forensics"
+description = "WHY CAN I NOT ACCESS THIS PNG FILE?!?! IS IT DAMAGED OR SOMETHING?? LET ME INNNNNNNNNNNNNNN\n"
+difficulty = "medium"
+name = "corrupt"
+folder_name = "corrupt"
+files = ["dist/flag_distrib.png"]
+
+[challenge.extras]
+discord = "p3rpl3x"
+
+[[challenge.flags]]
+flag = "YCEP25{C0RrUpT_oR_n0T}"
+case_insensitive = true

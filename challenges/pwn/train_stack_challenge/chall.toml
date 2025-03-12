@@ -1,0 +1,27 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ravin"
+category = "pwn"
+description = "Challenge on Little Endian and Big Endian, this will be gone through during the lesson\n"
+difficulty = "easy"
+name = "stack_challenge"
+folder_name = "train_stack_challenge"
+files = ["dist/chal", "dist/chal.c"]
+
+[challenge.extras]
+discord = "p3rpl3x"
+
+[[challenge.flags]]
+flag = "YCEP25{st4cksm4sh1ng}"
+case_insensitive = true
+
+[[challenge.services]]
+name = "stack_challenge"
+path = "service/Stack_challenge"
+ports = [10000]
+type = "tcp"

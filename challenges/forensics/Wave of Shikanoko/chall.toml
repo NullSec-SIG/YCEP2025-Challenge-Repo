@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Ravin"
+category = "forensics"
+description = "Shikanoko sent me this file and i have no idea what to do, but ive gone insane listening to this over and over again. At least they could have sent me something significant and not this bit of garbage\n"
+difficulty = "hard"
+name = "Wave of Shikanoko"
+folder_name = "Wave of Shikanoko"
+files = ["dist/flag.wav"]
+
+[challenge.extras]
+discord = "p3rpl3x"
+
+[[challenge.flags]]
+flag = "YCEP25{Sh1kan0k0_1s_W4v1ng}"
+case_insensitive = true
