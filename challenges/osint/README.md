@@ -4,12 +4,12 @@
 | Difficulty | Number of Challenges |
 |------------|:--------------------:|
 | Easy | 2 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 1 |
 | Insane | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 
-## Challenges (5 total)
+## Challenges (6 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
 | [Snips and Sips](<./Snips and Sips>) | [Snips and Sips](<./Snips and Sips>) | My brother told me about this aesthetic cafe... | Medium | Jun Wei |
