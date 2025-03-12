@@ -1,0 +1,21 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use the CLI instead.
+
+version = "0.1"
+
+[challenge]
+author = "Jun Wei"
+category = "forensics"
+description = "This is a practice challenge that will be gone through during the workshop.\n"
+difficulty = "easy"
+name = "train_logo"
+folder_name = "train_logo"
+files = ["dist\\nullsec.png"]
+
+[challenge.extras]
+discord = "syn3pz"
+
+[[challenge.flags]]
+flag = "YCEP25{stringing_it}"
+case_insensitive = true

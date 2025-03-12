@@ -4,13 +4,13 @@
 ## Difficulty Distribution
 | Difficulty | Number of Challenges |
 |------------|:--------------------:|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 6 |
 | Hard | 3 |
 | Insane | 0 |
-| **Total** | **13** |
+| **Total** | **14** |
 
-## Challenges (13 total)
+## Challenges (14 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
 | [ABC's Had Enough](<./ABCs Had Enough>) | [ABCs Had Enough](<./ABCs Had Enough>) | Alice, Bob and Charlie have had ENOUGH with... | Medium | Chin Ray |
@@ -25,6 +25,7 @@
 | [Through Out](<./Through Out>) | [Through Out](<./Through Out>) | I got this zip from a friend who swears they... | Medium | Damian |
 | [to space!](<./to space>) | [to space](<./to space>) | To Space and Beyond! or maybe become an object... | Easy | Ravin |
 | [train_calming](<./train_calming>) | [train_calming](<./train_calming>) | This is a binwalk practice challenge to be gone... | Easy | Jun Wei |
+| [train_logo](<./train_logo>) | [train_logo](<./train_logo>) | This is a practice challenge that will be gone... | Easy | Jun Wei |
 | [Wave of Shikanoko](<./Wave of Shikanoko>) | [Wave of Shikanoko](<./Wave of Shikanoko>) | Shikanoko sent me this file and i have no idea... | Hard | Ravin |
 
 ## Services (0 total)

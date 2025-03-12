@@ -3,16 +3,16 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
-| Forensics | 4 | 6 | 3 | 0 | 13 |
+| Forensics | 5 | 6 | 3 | 0 | 14 |
 | Crypto | 3 | 2 | 1 | 0 | 6 |
 | Misc | 5 | 2 | 0 | 1 | 8 |
 | Pwn | 5 | 2 | 1 | 0 | 8 |
 | Osint | 2 | 3 | 1 | 0 | 6 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |22 | 16 | 7 | 1 | 46 |
+| **Total** |23 | 16 | 7 | 1 | 47 |
 
 
-## Challenges (46 total)
+## Challenges (47 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [ABC's Had Enough](<./forensics/ABCs Had Enough>) | [ABCs Had Enough](<./forensics/ABCs Had Enough>) | Alice, Bob and Charlie have had ENOUGH with... | Forensics | Medium | Chin Ray |
@@ -27,6 +27,7 @@
 | [Through Out](<./forensics/Through Out>) | [Through Out](<./forensics/Through Out>) | I got this zip from a friend who swears they... | Forensics | Medium | Damian |
 | [to space!](<./forensics/to space>) | [to space](<./forensics/to space>) | To Space and Beyond! or maybe become an object... | Forensics | Easy | Ravin |
 | [train_calming](<./forensics/train_calming>) | [train_calming](<./forensics/train_calming>) | This is a binwalk practice challenge to be gone... | Forensics | Easy | Jun Wei |
+| [train_logo](<./forensics/train_logo>) | [train_logo](<./forensics/train_logo>) | This is a practice challenge that will be gone... | Forensics | Easy | Jun Wei |
 | [Wave of Shikanoko](<./forensics/Wave of Shikanoko>) | [Wave of Shikanoko](<./forensics/Wave of Shikanoko>) | Shikanoko sent me this file and i have no idea... | Forensics | Hard | Ravin |
 | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | A cipher to get you started on the harder... | Crypto | Medium | Caeden |
 | [Ceiling46](<./crypto/Ceiling46>) | [Ceiling46](<./crypto/Ceiling46>) | I just found this weird series of text while... | Crypto | Easy | Chin Ray |
