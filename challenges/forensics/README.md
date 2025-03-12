@@ -23,6 +23,7 @@
 | [I Love Crackers](<./I Love Crackers>) | [I Love Crackers](<./I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Medium | Ravin |
 | [Wave of Shikanoko](<./Wave of Shikanoko>) | [Wave of Shikanoko](<./Wave of Shikanoko>) | Shikanoko sent me this file and i have no idea... | Hard | Ravin |
 | [Through Out](<./Through Out>) | [Through Out](<./Through Out>) | I got this zip from a friend who swears they... | Medium | Damian |
+| [train_logo](<./train_logo>) | [train_logo](<./train_logo>) | This is a practice challenge that will be gone... | Easy | Jun Wei |
 | [riding WAVes](<./riding WAVes>) | [riding WAVes](<./riding WAVes>) | You’ve received an unusual WAV file - but it... | Medium | Jun Wei |
 | [Mega Matroyshka](<./Mega Matroyshka>) | [Mega Matroyshka](<./Mega Matroyshka>) | It seems like the dolls have reproduced. Now... | Hard | Ryan |
 

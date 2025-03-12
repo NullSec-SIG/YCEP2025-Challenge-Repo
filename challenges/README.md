@@ -26,6 +26,7 @@
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
 | [Wave of Shikanoko](<./forensics/Wave of Shikanoko>) | [Wave of Shikanoko](<./forensics/Wave of Shikanoko>) | Shikanoko sent me this file and i have no idea... | Forensics | Hard | Ravin |
 | [Through Out](<./forensics/Through Out>) | [Through Out](<./forensics/Through Out>) | I got this zip from a friend who swears they... | Forensics | Medium | Damian |
+| [train_logo](<./forensics/train_logo>) | [train_logo](<./forensics/train_logo>) | This is a practice challenge that will be gone... | Forensics | Easy | Jun Wei |
 | [riding WAVes](<./forensics/riding WAVes>) | [riding WAVes](<./forensics/riding WAVes>) | You’ve received an unusual WAV file - but it... | Forensics | Medium | Jun Wei |
 | [Mega Matroyshka](<./forensics/Mega Matroyshka>) | [Mega Matroyshka](<./forensics/Mega Matroyshka>) | It seems like the dolls have reproduced. Now... | Forensics | Hard | Ryan |
 | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | A cipher to get you started on the harder... | Crypto | Medium | Caeden |
