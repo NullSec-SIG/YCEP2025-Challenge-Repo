@@ -1,5 +1,5 @@
 
-# train_calming
+# Calming
 This is a binwalk practice challenge to be gone through during the workshop.
 
 

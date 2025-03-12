@@ -9,7 +9,7 @@ author = "Jun Wei"
 category = "forensics"
 description = "This is a binwalk practice challenge to be gone through during the workshop.\n"
 difficulty = "easy"
-name = "train_calming"
+name = "calming"
 folder_name = "train_calming"
 files = ["dist\\calming.jpg"]
 

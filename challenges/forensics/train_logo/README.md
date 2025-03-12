@@ -1,5 +1,5 @@
 
-# train_logo
+# logo
 This is a practice challenge that will be gone through during the workshop.
 
 

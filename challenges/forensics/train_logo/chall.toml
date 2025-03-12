@@ -9,7 +9,7 @@ author = "Jun Wei"
 category = "forensics"
 description = "This is a practice challenge that will be gone through during the workshop.\n"
 difficulty = "easy"
-name = "train_logo"
+name = "logo"
 folder_name = "train_logo"
 files = ["dist\\nullsec.png"]
 
