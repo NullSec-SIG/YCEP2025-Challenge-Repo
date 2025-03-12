@@ -4,20 +4,20 @@
 | Difficulty | Number of Challenges |
 |------------|:--------------------:|
 | Easy | 3 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 1 |
 | Insane | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 
-## Challenges (5 total)
+## Challenges (6 total)
 | Name | Folder | Description | Difficulty | Author |
 |------|--------|-------------|------------|--------|
+| [Alphabetical Affinity](<./Alphabetical Affinity>) | [Alphabetical Affinity](<./Alphabetical Affinity>) | A cipher to get you started on the harder... | Medium | Caeden |
 | [French Frenzy](<./French Frenzy>) | [French Frenzy](<./French Frenzy>) | Oh no! My French pen pal accidentally encrypted... | Medium | Jun Wei |
 | [Shifted Secrets](<./Shifted Secrets>) | [Shifted Secrets](<./Shifted Secrets>) | Can you uncover this cipher? Its driving me... | Easy | Ravin |
 | [Ceiling46](<./Ceiling46>) | [Ceiling46](<./Ceiling46>) | I just found this weird series of text while... | Easy | Chin Ray |
 | [Your Algorithm Fails...](<./Your Algorithm Fails Underpressure>) | [Your Algorithm Fails Underpressure](<./Your Algorithm Fails Underpressure>) | An intercepted message contains highly... | Hard | Ryan |
 | [Missing Tree](<./Missing Tree>) | [Missing Tree](<./Missing Tree>) | I don't know who or when, but my Morse tree was... | Easy | Caeden |
-| [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | A cipher to get you started on the harder challenges... | Medium | Caeden
 
 ## Services (0 total)
 | Service | Challenge | Ports | Type |
