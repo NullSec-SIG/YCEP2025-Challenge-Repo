@@ -1,16 +1,22 @@
 mapping:
+  pwn-cirs-cirs:
+  - from_port: 10000
+    to_port: 30000
   pwn-lionexchange-1-lionexchange1:
   - from_port: 2403
-    to_port: 30001
+    to_port: 30003
   pwn-lionexchange-2-lionexchange2:
   - from_port: 2404
-    to_port: 30000
+    to_port: 30002
   pwn-msl-maingate-msl-level1:
   - from_port: 10000
-    to_port: 30003
+    to_port: 30005
   pwn-msl-secretvault-msl-level2:
   - from_port: 10000
-    to_port: 30002
+    to_port: 30004
+  pwn-train_stack_challenge-stack_challenge:
+  - from_port: 10000
+    to_port: 30001
   web-the-shadow-terminal-shadow-terminal:
   - from_port: 80
     to_port: 31001

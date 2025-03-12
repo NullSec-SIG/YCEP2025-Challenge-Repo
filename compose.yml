@@ -1,5 +1,7 @@
 include: []
 networks:
+  pwn-cirs-network:
+    driver: bridge
   pwn-lionexchange-1-network:
     driver: bridge
   pwn-lionexchange-2-network:
@@ -8,18 +10,28 @@ networks:
     driver: bridge
   pwn-msl-secretvault-network:
     driver: bridge
+  pwn-train_stack_challenge-network:
+    driver: bridge
   web-the-shadow-terminal-network:
     driver: bridge
   web-timecapsule-network:
     driver: bridge
 services:
+  pwn-cirs-cirs:
+    build: challenges/pwn/cirs/service/service
+    container_name: pwn-cirs-cirs
+    networks:
+    - pwn-cirs-network
+    ports:
+    - 30000:10000
+    restart: always
   pwn-lionexchange-1-lionexchange1:
     build: challenges/pwn/LionExchange 1/service\lionexchange1
     container_name: pwn-lionexchange-1-lionexchange1
     networks:
     - pwn-lionexchange-1-network
     ports:
-    - 30001:2403
+    - 30003:2403
     restart: always
   pwn-lionexchange-2-lionexchange2:
     build: challenges/pwn/LionExchange 2/service\lionexchange2
@@ -27,7 +39,7 @@ services:
     networks:
     - pwn-lionexchange-2-network
     ports:
-    - 30000:2404
+    - 30002:2404
     restart: always
   pwn-msl-maingate-msl-level1:
     build: challenges/pwn/MSL-MainGate/service\level-one-service
@@ -35,7 +47,7 @@ services:
     networks:
     - pwn-msl-maingate-network
     ports:
-    - 30003:10000
+    - 30005:10000
     restart: always
   pwn-msl-secretvault-msl-level2:
     build: challenges/pwn/MSL-SecretVault/service\level-two
@@ -43,7 +55,15 @@ services:
     networks:
     - pwn-msl-secretvault-network
     ports:
-    - 30002:10000
+    - 30004:10000
+    restart: always
+  pwn-train_stack_challenge-stack_challenge:
+    build: challenges/pwn/train_stack_challenge/service/Stack_challenge
+    container_name: pwn-train_stack_challenge-stack_challenge
+    networks:
+    - pwn-train_stack_challenge-network
+    ports:
+    - 30001:10000
     restart: always
   web-the-shadow-terminal-shadow-terminal:
     build: challenges/web/The Shadow Terminal/service\src
