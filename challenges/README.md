@@ -3,16 +3,16 @@
 ## Difficulty Distribution
 | Category | Easy | Medium | Hard | Insane | Total |
 |----------|:----:|:------:|:----:|:------:|:-----:|
-| Forensics | 3 | 6 | 3 | 0 | 12 |
+| Forensics | 5 | 6 | 3 | 0 | 14 |
 | Crypto | 3 | 2 | 1 | 0 | 6 |
 | Misc | 5 | 2 | 0 | 1 | 8 |
 | Pwn | 5 | 2 | 1 | 0 | 8 |
 | Osint | 2 | 3 | 1 | 0 | 6 |
 | Web | 3 | 1 | 1 | 0 | 5 |
-| **Total** |21 | 16 | 7 | 1 | 45 |
+| **Total** |23 | 16 | 7 | 1 | 47 |
 
 
-## Challenges (45 total)
+## Challenges (47 total)
 | Name | Folder | Description | Category | Difficulty | Author |
 |------|--------|-------------|----------|------------|--------|
 | [TelSigma](<./forensics/TelSigma>) | [TelSigma](<./forensics/TelSigma>) | Someone disabled SSH on my server… but luckily,... | Forensics | Easy | Damian |
@@ -22,9 +22,11 @@
 | [ABC's Had Enough](<./forensics/ABCs Had Enough>) | [ABCs Had Enough](<./forensics/ABCs Had Enough>) | Alice, Bob and Charlie have had ENOUGH with... | Forensics | Medium | Chin Ray |
 | [Matryoshka](<./forensics/Matryoshka>) | [Matryoshka](<./forensics/Matryoshka>) | I accidentally thew all my Matryoshka dolls in... | Forensics | Medium | Ryan |
 | [corrupt](<./forensics/corrupt>) | [corrupt](<./forensics/corrupt>) | WHY CAN I NOT ACCESS THIS PNG FILE?!?! IS IT... | Forensics | Medium | Ravin |
+| [calming](<./forensics/train_calming>) | [train_calming](<./forensics/train_calming>) | This is a binwalk practice challenge to be gone... | Forensics | Easy | Jun Wei |
 | [I Love Crackers](<./forensics/I Love Crackers>) | [I Love Crackers](<./forensics/I Love Crackers>) | Crackers Tea and Crumpets... This British guy... | Forensics | Medium | Ravin |
 | [Wave of Shikanoko](<./forensics/Wave of Shikanoko>) | [Wave of Shikanoko](<./forensics/Wave of Shikanoko>) | Shikanoko sent me this file and i have no idea... | Forensics | Hard | Ravin |
 | [Through Out](<./forensics/Through Out>) | [Through Out](<./forensics/Through Out>) | I got this zip from a friend who swears they... | Forensics | Medium | Damian |
+| [logo](<./forensics/train_logo>) | [train_logo](<./forensics/train_logo>) | This is a practice challenge that will be gone... | Forensics | Easy | Jun Wei |
 | [riding WAVes](<./forensics/riding WAVes>) | [riding WAVes](<./forensics/riding WAVes>) | You’ve received an unusual WAV file - but it... | Forensics | Medium | Jun Wei |
 | [Mega Matroyshka](<./forensics/Mega Matroyshka>) | [Mega Matroyshka](<./forensics/Mega Matroyshka>) | It seems like the dolls have reproduced. Now... | Forensics | Hard | Ryan |
 | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | [Alphabetical Affinity](<./crypto/Alphabetical Affinity>) | A cipher to get you started on the harder... | Crypto | Medium | Caeden |
