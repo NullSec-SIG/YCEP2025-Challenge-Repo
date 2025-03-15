@@ -8,6 +8,7 @@ on:
 
 jobs:
   generate-compose:
+    if: ${{ github.event.repository.fork == false }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -19,7 +20,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install ctf-architect
-        run: pip install ctf-architect
+        run: pip install git+https://github.com/DakshRocks21/CTF-Architect
 
       - name: Remove old files
         run: rm -f compose.yml port_mapping.yaml
@@ -37,6 +38,6 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: "."
-          message: "chore: update compose.yml and port_mapping.yml"
+          message: "chore: update compose.yml and port_mapping.yaml"
           author_name: "CTF Architect Updater"
           author_email: "85815311+DakshRocks21@users.noreply.github.com"
