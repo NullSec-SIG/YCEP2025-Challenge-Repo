@@ -31,10 +31,10 @@ Special thanks to everyone who made YCEP 2025 possible!
 - Kairos (President)
 - Bowen (Vice-President)
 - Galen (Head of Tech)
-- Tech team
 - Dhava (Head of SecOps)
-- SecOps team
 - Yong Xin (Head of Publicity)
+- Tech team
+- SecOps team
 - Publicity team
 
 ### NullSec AY24/25 EXCO Interns
