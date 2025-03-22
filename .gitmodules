@@ -1,0 +1,3 @@
+[submodule "ctf_scripts"]
+	path = ctf_scripts
+	url = https://github.com/DakshRocks21/ctf_scripts
