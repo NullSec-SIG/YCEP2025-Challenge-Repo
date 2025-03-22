@@ -136,3 +136,5 @@ p.interactive()
 ```
 
 which should output the flag, `YCEP25{I_L0ve_eat1ng_i_m3an_ropp1ng_PIE}`
+
+Adapted from https://riantheduckquack.gitbook.io/ctf-thingys/challenge-writeups/blahajctf-2023/pwn/cars (Thanks Rian!!)
