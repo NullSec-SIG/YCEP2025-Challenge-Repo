@@ -14,7 +14,7 @@ Welcome to the official GitHub repository for NP YCEP 2025, proudly organised by
 - **.gitattributes** (File used to configure Git LFS to facilitate the upload of ABC's Had Enough's massive dist file)
 - **compose.yml** (Configuration file used to deploy pwn/web challenges on our infra via Docker/Kubernetes)
 - **ctf_config.toml** (Configuration file for CTF-Architect)
-- **deploy_no_ingress.py** (Script used for chall1 and chall2 machines to automatically deploy all challenges)
+- **ctf_scripts/** (Scripts used to automatically deploy all challenges as well as email, and management of users on ctfd)
 - **port_mapping.yml** (Configuration file used to deploy pwn/web challenges on our infra via Docker/Kubernetes)
 
 ## Challenge Folders
