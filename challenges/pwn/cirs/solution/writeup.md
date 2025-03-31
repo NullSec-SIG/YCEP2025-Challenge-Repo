@@ -58,13 +58,15 @@ int main()
 
 ## Running CheckSec
 ```
-└─# checksec cars
-[*] '/mnt/f/blahajCTF/pwn/cars'
-    Arch:     amd64-64-little
-    RELRO:    Partial RELRO
-    Stack:    No canary found
-    NX:       NX enabled
-    PIE:      PIE enabled
+└─$ checksec cirs
+[*] '/mnt/d/D_Drive/challenge/service-cirs/service/cirs'
+    Arch:       amd64-64-little
+    RELRO:      Partial RELRO
+    Stack:      No canary found
+    NX:         NX enabled
+    PIE:        PIE enabled
+    Stripped:   No
+    Debuginfo:  Yes
 ```
 
 From this, we can see that NX is enabled and PIE is enabled
